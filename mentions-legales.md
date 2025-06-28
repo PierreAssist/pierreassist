@@ -26,4 +26,4 @@ E-mail : <a href="mailto:contact@pierreassist.fr" class="text-indigo-600 hover:
 <p>Toute reproduction, représentation, modification, publication ou adaptation de tout ou partie des éléments du Site, quel que soit le moyen ou le procédé utilisé, est interdite, sauf autorisation écrite préalable de Pierre Aussurin Teytaux.</p>
 <p>Toute exploitation non autorisée du Site ou de l’un quelconque des éléments qu’il contient sera considérée comme constitutive de contrefaçon et poursuivie conformément aux dispositions des articles L.335-2 et suivants du Code de la Propriété Intellectuelle.</p>
 
-<p class="mt-6 text-sm text-gray-500">Mentions légales générées via Legalstart.</p>
+<p class="mt-6 text-sm text-gray-500">Mentions légales générées via <a href="https://www.legalstart.fr">Legalstart</a>.</p>
