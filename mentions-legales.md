@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: mentions-legales
 title: Mentions légales – Pierre Assist
 ---
 
