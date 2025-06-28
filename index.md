@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Pierre Assist – Assistance admin & Excel
+title: Pierre Assist
 ---
 
 <section id="intro" class="py-20 bg-indigo-50 text-center">
