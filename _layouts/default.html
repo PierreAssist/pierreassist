@@ -1,6 +1,10 @@
 <!doctype html>
 <html lang="fr">
 <head>
+  <meta name="description" content="Assistance administrative et outils Excel pour artisans & commerçants – sur site autour de Saint-Maixent-l’École ou à distance.">
+  <link rel="stylesheet" href="https://unpkg.com/aos@2.3.4/dist/aos.css">
+<script src="https://unpkg.com/aos@2.3.4/dist/aos.js"></script>
+<script>document.addEventListener('DOMContentLoaded',()=>AOS.init({once:true}));</script>
   <style>
     .bg-hero-gradient{
     background:linear-gradient(135deg,#4f46e5 0%,#7c3aed 100%);
@@ -17,5 +21,11 @@
     {{ content }}
   </main>
   {% include footer.html %}
+<button id="topBtn" class="hidden fixed bottom-6 right-6 p-3 bg-indigo-500 rounded-full text-white shadow-lg">&#8679;</button>
+<script>
+  const btn=document.getElementById('topBtn');
+  window.addEventListener('scroll',()=>btn.classList.toggle('hidden',window.scrollY<300));
+  btn.onclick=()=>window.scrollTo({top:0,behavior:'smooth'});
+</script>
 </body>
 </html>
