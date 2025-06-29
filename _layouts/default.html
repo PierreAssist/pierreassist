@@ -27,5 +27,10 @@
   window.addEventListener('scroll',()=>btn.classList.toggle('hidden',window.scrollY<300));
   btn.onclick=()=>window.scrollTo({top:0,behavior:'smooth'});
 </script>
+<script src="https://unpkg.com/lucide@latest/dist/umd/lucide.min.js"></script>
+<script>
+  // remplace chaque <i data-lucide="icon-name"> par le SVG correspondant
+  lucide.createIcons();
+</script>
 </body>
 </html>
