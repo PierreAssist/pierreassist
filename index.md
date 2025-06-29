@@ -51,7 +51,7 @@ title: Pierre Assist
   <p class="text-sm text-indigo-400 italic">
     Gagnez ~5&nbsp;h/mois sur cette partie
   </p>
-
+</div>
   <div class="bg-slate-800 rounded-lg p-6">
       <svg class="bg-slate-800 rounded-lg p-6 transition hover:-translate-y-1 hover:shadow-lg" fill="none" stroke="currentColor" stroke-width="2"><use href="https://unpkg.com/lucide-static@latest/icons/file-spreadsheet.svg#icon"/></svg>
       <h3 class="text-xl font-semibold mb-2">Outils Excel / VBA</h3>
