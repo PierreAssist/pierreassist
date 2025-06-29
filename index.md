@@ -81,8 +81,17 @@ title: Pierre Assist
 
 <section id="cta" class="py-20 text-center">
   <h2 class="text-3xl font-bold mb-4">Prêt·e à gagner du temps&nbsp;?</h2>
-  <p class="mb-6">Cliquez et bloquons un créneau ensemble.</p>
-  <br><a href="https://calendly.com/ton-lien/decouverte" class="btn-primary">Réserver un appel</a><a href="https://wa.me/33600000000" class="btn-outline ml-4">WhatsApp</a><a href="mailto:contact@pierreassist.fr" class="ml-4 inline-flex items-center gap-1 text-gray-300 hover:text-white"><svg class="h-5 w-5" fill="none" stroke="currentColor" stroke-width="2"><use href="https://unpkg.com/lucide-static@latest/icons/mail.svg#icon"/></svg>contact@pierreassist.fr</a><a href="https://www.linkedin.com/in/tonprofil" class="ml-4 hover:text-white"><svg class="h-5 w-5" fill="currentColor"><use href="https://unpkg.com/lucide-static@latest/icons/linkedin.svg#icon"/></svg></a>
+  <p class="mb-8">Cliquez et bloquons un créneau ensemble.</p>
+  <div class="flex flex-col sm:flex-row justify-center items-center gap-4">
+    <a href="https://calendly.com/…" class="px-6 py-3 bg-indigo-500 rounded-full font-semibold hover:bg-indigo-600">Réserver un appel</a>
+    <a href="https://wa.me/33600000000" class="px-6 py-3 border border-indigo-400 rounded-full hover:bg-indigo-600 hover:border-transparent">WhatsApp</a>
+    <a href="mailto:contact@pierreassist.fr" class="inline-flex items-center gap-2 text-gray-300 hover:text-white">
+      <svg class="h-5 w-5" …>…</svg>contact@pierreassist.fr
+    </a>
+    <a href="https://www.linkedin.com/in/tonprofil" class="text-gray-300 hover:text-white">
+      <svg class="h-5 w-5" …>…</svg>
+    </a>
+  </div>
 </section>
 
 <section id="faq" class="py-16 bg-slate-800" data-aos="fade-up">
