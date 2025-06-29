@@ -36,9 +36,7 @@ title: Pierre Assist
   <div class="grid md:grid-cols-3 gap-6">
     <!-- carte -->
     <div class="bg-slate-800 rounded-lg p-6 transition hover:-translate-y-1 hover:shadow-lg">
-  <svg class="h-8 w-8 text-indigo-400 mb-3" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
-    <path d="https://lucide.dev/icons/inbox"/> <!-- chemin de l'icône inbox -->
-  </svg>
+  <i data-lucide="inbox" class="w-8 h-8 text-indigo-400 mb-4"></i>
   <h3 class="text-xl font-semibold mb-2">Admin &amp; Relation Tiers</h3>
       <ul class="list-disc list-inside text-gray-300">
         <li>Gestion boîte mail &amp; agenda</li>
