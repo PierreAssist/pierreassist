@@ -105,14 +105,18 @@ title: Pierre Assist
   <h2 class="text-3xl font-bold mb-4">Prêt·e à gagner du temps&nbsp;?</h2>
   <p class="mb-8">Cliquez et bloquons un créneau ensemble.</p>
   <div class="flex flex-col sm:flex-row justify-center items-center gap-4">
-    <a href="https://calendly.com/…" class="px-6 py-3 bg-indigo-500 rounded-full font-semibold hover:bg-indigo-600">Réserver un appel</a>
-    <a href="https://wa.me/33600000000" class="px-6 py-3 border border-indigo-400 rounded-full hover:bg-indigo-600 hover:border-transparent">WhatsApp</a>
-    <a href="mailto:contact@pierreassist.fr" class="inline-flex items-center gap-2 text-gray-300 hover:text-white">
-      <svg class="h-5 w-5" …>contact@pierreassist.fr</svg></a>
-    <a href="https://www.linkedin.com/in/tonprofil" class="text-gray-300 hover:text-white">
-      <svg class="h-5 w-5" …>…</svg>
-    </a>
-  </div>
+  <a href="https://calendly.com/…" class="px-6 py-3 bg-indigo-500 rounded-full font-semibold hover:bg-indigo-600">Réserver un appel</a>
+  <a href="https://wa.me/33600000000" class="px-6 py-3 border border-indigo-400 rounded-full hover:bg-indigo-600 hover:border-transparent">WhatsApp</a>
+  <a href="mailto:contact@pierreassist.fr" class="inline-flex items-center gap-2 text-gray-300 hover:text-white">
+    <svg class="h-5 w-5" fill="none" stroke="currentColor" stroke-width="2">
+      <path d="M4 4h16v16H4z"></path><polyline points="22,6 12,13 2,6"></polyline>
+    </svg>
+    contact@pierreassist.fr
+  </a>
+  <a href="https://www.linkedin.com/in/tonprofil" class="text-gray-300 hover:text-white">
+    <svg class="h-5 w-5" fill="currentColor"><path d="M16 8a6 6 0 0 1 6 6v8h-4v-8a2 2 0 0 0-4 0v8h-4v-8a6 6 0 0 1 6-6z"/><rect x="2" y="9" width="4" height="12"/><circle cx="4" cy="4" r="2"/></svg>
+  </a>
+</div>
 </section>
 
 <section id="faq" class="py-16 bg-slate-800" data-aos="fade-up">
