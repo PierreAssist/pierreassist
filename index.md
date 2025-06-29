@@ -51,30 +51,9 @@ title: Pierre Assist
   <p class="text-sm text-indigo-400 italic">
     Gagnez ~5&nbsp;h/mois sur cette partie
   </p>
-</div>
-    <div class="bg-slate-800 rounded-lg p-6 flex flex-col items-start text-left
-            space-y-3 min-h-[230px] transition hover:-translate-y-1 hover:shadow-lg">
 
-  <!-- icône INLINE (aucun risque de chargement) -->
-  <svg class="w-8 h-8 text-indigo-400" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" viewBox="0 0 24 24">
-    <polyline points="22 12 16 12 14 15 10 15 8 12 2 12"></polyline>
-    <path d="M5.45 5H18.55L21 12V19a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V12Z"></path>
-  </svg>
-
-  <h3 class="text-xl font-semibold">Admin &amp; Relation Tiers</h3>
-
-  <ul class="list-disc list-inside text-gray-300 flex-1 space-y-1">
-    <li>Gestion boîte mail &amp; agenda</li>
-    <li>Suivi fournisseurs / clients</li>
-    <li>Démarches administratives</li>
-  </ul>
-
-  <p class="text-sm text-indigo-400 italic">
-    Gagnez ~5&nbsp;h/mois sur cette partie
-  </p>
-</div>
-    <div class="bg-slate-800 rounded-lg p-6">
-      <br><svg class="bg-slate-800 rounded-lg p-6 transition hover:-translate-y-1 hover:shadow-lg" fill="none" stroke="currentColor" stroke-width="2"><use href="https://unpkg.com/lucide-static@latest/icons/file-spreadsheet.svg#icon"/></svg>
+  <div class="bg-slate-800 rounded-lg p-6">
+      <svg class="bg-slate-800 rounded-lg p-6 transition hover:-translate-y-1 hover:shadow-lg" fill="none" stroke="currentColor" stroke-width="2"><use href="https://unpkg.com/lucide-static@latest/icons/file-spreadsheet.svg#icon"/></svg>
       <h3 class="text-xl font-semibold mb-2">Outils Excel / VBA</h3>
       <ul class="list-disc list-inside text-gray-300">
         <li>Tableaux de bord</li>
