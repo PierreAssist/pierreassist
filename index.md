@@ -16,16 +16,18 @@ title: Pierre Assist
 </section>
 
 <section id="about" class="py-24 text-center text-white bg-[url('/assets/desk.jpg')] bg-cover bg-center bg-fixed relative">
+  <div class="py-20 container mx-auto px-4 max-w-3xl text-center" data-aos="fade-up">
   <div class="absolute inset-0 bg-gradient-to-br from-indigo-700/80 to-violet-800/80"></div>
   <div class="relative z-10">
-    … ton contenu …
+<h2 class="text-3xl font-bold mb-6">À propos</h2>
+<div class="mx-auto mb-6 w-32 h-32 rounded-full bg-slate-800 flex items-center justify-center text-gray-500">photo</div>
+<p class="text-gray-300">[Ton texte ici&nbsp;– 3&nbsp;à&nbsp;4 phrases]</p>
+  </div>
   </div>
 </section>
 
 <section id="about2" class="py-20 container mx-auto px-4 max-w-3xl text-center" data-aos="fade-up">
-<h2 class="text-3xl font-bold mb-6">À propos</h2>
-<div class="mx-auto mb-6 w-32 h-32 rounded-full bg-slate-800 flex items-center justify-center text-gray-500">photo</div>
-<p class="text-gray-300">[Ton texte ici&nbsp;– 3&nbsp;à&nbsp;4 phrases]</p>
+
 </section>
 
 <section id="services" class="py-20 container mx-auto px-4">
@@ -81,4 +83,16 @@ title: Pierre Assist
   <br><a href="https://calendly.com/ton-lien/decouverte" class="btn-primary">Réserver un appel</a><a href="https://wa.me/33600000000" class="btn-outline ml-4">WhatsApp</a><a href="mailto:contact@pierreassist.fr" class="ml-4 inline-flex items-center gap-1 text-gray-300 hover:text-white"><svg class="h-5 w-5" fill="none" stroke="currentColor" stroke-width="2"><use href="https://unpkg.com/lucide-static@latest/icons/mail.svg#icon"/></svg>contact@pierreassist.fr</a><a href="https://www.linkedin.com/in/tonprofil" class="ml-4 hover:text-white"><svg class="h-5 w-5" fill="currentColor"><use href="https://unpkg.com/lucide-static@latest/icons/linkedin.svg#icon"/></svg></a>
 </section>
 
-<section id="faq" class="py-16 bg-slate-800" data-aos="fade-up"><div class="container mx-auto px-4 max-w-3xl"><h2 class="text-2xl font-bold mb-6 text-center">FAQ</h2><details class="mb-4"><summary class="cursor-pointer font-semibold">Combien d’heures minimum&nbsp;?</summary><p class="mt-2 text-gray-300">Je facture à l’heure. Aucune quantité minimale&nbsp;; vous ne payez que le temps réellement consommé.</p></details><details class="mb-4"><summary class="cursor-pointer font-semibold">Un contrat est-il prévu&nbsp;?</summary><p class="mt-2 text-gray-300">Oui : une lettre de mission-cadre + un ordre de mission par demande. Pas de surprise tarifaire.</p></details><details><summary class="cursor-pointer font-semibold">Que faites-vous de mes données (RGPD)&nbsp;?</summary><p class="mt-2 text-gray-300">Accès chiffré via Bitwarden, stockage OneDrive UE, destruction à la fin de mission. Voir CGV § 6.</p></details></div></section>
+<section id="faq" class="py-16 bg-slate-800" data-aos="fade-up">
+  <div class="container mx-auto px-4 max-w-3xl">
+    <h2 class="text-2xl font-bold mb-6 text-center">FAQ</h2>
+    <details class="mb-4">
+      <summary class="cursor-pointer font-semibold">Combien d’heures minimum&nbsp;?</summary>
+      <p class="mt-2 text-gray-300">Je facture à l’heure. Aucune quantité minimale&nbsp;; vous ne payez que le temps réellement consommé.</p>
+    </details>
+    <details class="mb-4"><summary class="cursor-pointer font-semibold">Un contrat est-il prévu&nbsp;?
+    </summary>
+      <p class="mt-2 text-gray-300">Oui : une lettre de mission-cadre + un ordre de mission par demande. Pas de surprise tarifaire.</p></details><details><summary class="cursor-pointer font-semibold">Que faites-vous de mes données (RGPD)&nbsp;?</summary><p class="mt-2 text-gray-300">Accès chiffré via Bitwarden, stockage OneDrive UE, destruction à la fin de mission. Voir CGV § 6.</p>
+      </details>
+  </div>
+</section>
