@@ -135,7 +135,7 @@ title: Pierre Assist
     <!-- Bouton WhatsApp -->
   <a href="https://wa.me/33600000000"
        class="inline-flex items-center gap-2 px-6 py-3 bg-indigo-500 rounded-full font-semibold hover:bg-indigo-600">
-      <i data-lucide="phone" class="w-5 h-5 stroke-[2]"></i>
+      <i data-lucide="phone" class="w-5 h-5 stroke-[2] text-[#25D366]"></i>
       WhatsApp
     </a>
 
