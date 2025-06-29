@@ -141,7 +141,7 @@ title: Pierre Assist
 
     <!-- Lien LinkedIn -->
   <a href="https://www.linkedin.com/in/tonprofil"
-       class="inline-flex items-center text-gray-300 hover:text-white">
+       class="inline-flex items-center gap-2 px-6 py-3 border border-indigo-400 rounded-full hover:bg-indigo-600 hover:border-transparent">
       <i data-lucide="linkedin" class="w-5 h-5 stroke-[2]"></i>
     </a>
 
