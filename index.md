@@ -26,10 +26,6 @@ title: Pierre Assist
   </div>
 </section>
 
-<section id="about2" class="py-20 container mx-auto px-4 max-w-3xl text-center" data-aos="fade-up">
-
-</section>
-
 <section id="services" class="py-20 container mx-auto px-4">
   <h2 class="text-3xl font-bold text-center mb-12">Ce que je prends en charge</h2>
 
