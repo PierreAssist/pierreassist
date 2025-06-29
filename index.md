@@ -114,19 +114,36 @@ title: Pierre Assist
 <section id="cta" class="py-20 text-center">
   <h2 class="text-3xl font-bold mb-4">Prêt·e à gagner du temps&nbsp;?</h2>
   <p class="mb-8">Cliquez et bloquons un créneau ensemble.</p>
+
   <div class="flex flex-col sm:flex-row justify-center items-center gap-4">
-  <a href="https://calendly.com/…" class="px-6 py-3 bg-indigo-500 rounded-full font-semibold hover:bg-indigo-600">Réserver un appel</a>
-  <a href="https://wa.me/33600000000" class="px-6 py-3 border border-indigo-400 rounded-full hover:bg-indigo-600 hover:border-transparent">WhatsApp</a>
-  <a href="mailto:contact@pierreassist.fr" class="inline-flex items-center gap-2 text-gray-300 hover:text-white">
-    <svg class="h-5 w-5" fill="none" stroke="currentColor" stroke-width="2">
-      <path d="M4 4h16v16H4z"></path><polyline points="22,6 12,13 2,6"></polyline>
-    </svg>
-    contact@pierreassist.fr
-  </a>
-  <a href="https://www.linkedin.com/in/tonprofil" class="text-gray-300 hover:text-white">
-    <svg class="h-5 w-5" fill="currentColor"><path d="M16 8a6 6 0 0 1 6 6v8h-4v-8a2 2 0 0 0-4 0v8h-4v-8a6 6 0 0 1 6-6z"/><rect x="2" y="9" width="4" height="12"/><circle cx="4" cy="4" r="2"/></svg>
-  </a>
-</div>
+    <!-- Bouton Calendly -->
+    <a href="https://calendly.com/ton-lien/decouverte"
+       class="inline-flex items-center gap-2 px-6 py-3 bg-indigo-500 rounded-full font-semibold hover:bg-indigo-600">
+      <i data-lucide="calendar" class="w-5 h-5 stroke-[2]"></i>
+      Réserver un appel
+    </a>
+
+    <!-- Bouton WhatsApp -->
+  <a href="https://wa.me/33600000000"
+       class="inline-flex items-center gap-2 px-6 py-3 border border-indigo-400 rounded-full hover:bg-indigo-600 hover:border-transparent">
+      <i data-lucide="phone" class="w-5 h-5 stroke-[2]"></i>
+      WhatsApp
+    </a>
+
+    <!-- Lien mail -->
+   <a href="mailto:contact@pierreassist.fr"
+       class="inline-flex items-center gap-2 text-gray-300 hover:text-white">
+      <i data-lucide="mail" class="w-5 h-5 stroke-[2]"></i>
+      contact@pierreassist.fr
+    </a>
+
+    <!-- Lien LinkedIn -->
+  <a href="https://www.linkedin.com/in/tonprofil"
+       class="inline-flex items-center text-gray-300 hover:text-white">
+      <i data-lucide="linkedin" class="w-5 h-5 stroke-[2]"></i>
+    </a>
+
+  </div>
 </section>
 
 <section id="faq" class="py-16 bg-slate-800" data-aos="fade-up">
