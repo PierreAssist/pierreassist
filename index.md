@@ -52,16 +52,51 @@ title: Pierre Assist
     Gagnez ~5&nbsp;h/mois sur cette partie
   </p>
 </div>
-  <div class="bg-slate-800 rounded-lg p-6">
-      <svg class="bg-slate-800 rounded-lg p-6 transition hover:-translate-y-1 hover:shadow-lg" fill="none" stroke="currentColor" stroke-width="2"><use href="https://unpkg.com/lucide-static@latest/icons/file-spreadsheet.svg#icon"/></svg>
-      <h3 class="text-xl font-semibold mb-2">Outils Excel / VBA</h3>
-      <ul class="list-disc list-inside text-gray-300">
-        <li>Tableaux de bord</li>
-        <li>Automatisation devis-facture</li>
-        <li>Système d’archivage numérique</li>
-      </ul>
-    </div>
-  </div>
+  <!-- carte -->
+   <div class="bg-slate-800 rounded-lg p-6 flex flex-col items-start text-center
+            space-y-3 min-h-[260px] transition hover:-translate-y-1 hover:shadow-lg">
+
+  <!-- icône -->
+  <i data-lucide="inbox" class="w-8 h-8 text-indigo-400"></i>
+
+  <!-- titre -->
+  <h3 class="text-xl font-semibold">Admin &amp; Relation Tiers</h3>
+
+  <!-- liste -->
+  <ul class="list-disc list-inside text-gray-300 flex-1 space-y-1">
+    <li>Gestion boîte mail &amp; agenda</li>
+    <li>Suivi fournisseurs / clients</li>
+    <li>Démarches administratives</li>
+  </ul>
+
+  <!-- phrase valeur -->
+  <p class="text-sm text-indigo-400 italic">
+    Gagnez ~5&nbsp;h/mois sur cette partie
+  </p>
+</div>
+<!-- carte -->
+   <div class="bg-slate-800 rounded-lg p-6 flex flex-col items-start text-center
+            space-y-3 min-h-[260px] transition hover:-translate-y-1 hover:shadow-lg">
+
+  <!-- icône -->
+  <i data-lucide="inbox" class="w-8 h-8 text-indigo-400"></i>
+
+  <!-- titre -->
+  <h3 class="text-xl font-semibold">Admin &amp; Relation Tiers</h3>
+
+  <!-- liste -->
+  <ul class="list-disc list-inside text-gray-300 flex-1 space-y-1">
+    <li>Gestion boîte mail &amp; agenda</li>
+    <li>Suivi fournisseurs / clients</li>
+    <li>Démarches administratives</li>
+  </ul>
+
+  <!-- phrase valeur -->
+  <p class="text-sm text-indigo-400 italic">
+    Gagnez ~5&nbsp;h/mois sur cette partie
+  </p>
+</div>
+</div>
 </section>
 
 <section id="process" class="py-16 bg-slate-800">
