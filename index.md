@@ -3,41 +3,67 @@ layout: default
 title: Pierre Assist
 ---
 
-<section id="intro" class="py-20 bg-indigo-50 text-center">
-  <h1 class="text-4xl font-extrabold mb-4">Assistance administrative &amp; Outils Excel sur‑mesure</h1>
-  <p class="mb-6">Saint‑Maixent‑l’École et distanciel</p>
-  <a href="#cta" class="px-6 py-3 bg-indigo-600 text-white rounded-full">Audit gratuit 20&nbsp;min</a>
+<section id="intro" class="py-24 bg-hero-gradient text-center">
+  <h1 class="text-4xl sm:text-5xl font-extrabold mb-4">
+    Je libère votre temps : <span class="text-gray-200">administratif &amp; Excel</span>
+  </h1>
+  <p class="mb-8 text-lg">
+    Sur site <strong>(30 km autour de Saint-Maixent-l’École)</strong> ou 100 % distanciel
+  </p>
+  <a href="#cta" class="px-8 py-3 bg-gray-100 text-slate-900 font-semibold rounded-full shadow hover:bg-white">
+    Réserver un appel 30 min
+  </a>
 </section>
 
-<section id="services" class="py-16 container mx-auto px-4">
-  <h2 class="text-2xl font-bold mb-6 text-center">Services</h2>
-  <div class="grid sm:grid-cols-2 gap-6">
-    <div class="p-6 border rounded">
-      <h3 class="font-semibold mb-2">Gestion administrative</h3>
-      <p>Saisie, classement, formalités, RH, pré‑compta.</p>
+<section id="services" class="py-20 container mx-auto px-4">
+  <h2 class="text-3xl font-bold text-center mb-12">Ce que je prends en charge</h2>
+
+  <div class="grid md:grid-cols-3 gap-6">
+    <!-- carte -->
+    <div class="bg-slate-800 rounded-lg p-6">
+      <h3 class="text-xl font-semibold mb-2">Admin &amp; Relation Tiers</h3>
+      <ul class="list-disc list-inside text-gray-300">
+        <li>Gestion boîte mail &amp; agenda</li>
+        <li>Suivi fournisseurs / clients</li>
+        <li>Démarches administratives</li>
+      </ul>
     </div>
-    <div class="p-6 border rounded">
-      <h3 class="font-semibold mb-2">Outils Excel / VBA</h3>
-      <p>Tableaux de bord, automatisations, coûts de revient.</p>
+    <div class="bg-slate-800 rounded-lg p-6">
+      <h3 class="text-xl font-semibold mb-2">Pré-compta &amp; Trésorerie</h3>
+      <ul class="list-disc list-inside text-gray-300">
+        <li>Saisie &amp; pointage</li>
+        <li>Virements, relances impayés</li>
+        <li>Interface expert-comptable</li>
+      </ul>
+    </div>
+    <div class="bg-slate-800 rounded-lg p-6">
+      <h3 class="text-xl font-semibold mb-2">Outils Excel / VBA</h3>
+      <ul class="list-disc list-inside text-gray-300">
+        <li>Tableaux de bord</li>
+        <li>Automatisation devis-facture</li>
+        <li>Système d’archivage numérique</li>
+      </ul>
     </div>
   </div>
 </section>
 
-<section id="pricing" class="py-16 bg-gray-50">
+<section id="process" class="py-16 bg-slate-800">
   <div class="container mx-auto px-4">
-    <h2 class="text-2xl font-bold mb-6 text-center">Packs &amp; Tarifs</h2>
-    <div class="max-w-md mx-auto bg-white p-6 shadow rounded">
-      <p class="text-lg mb-2"><strong>40&nbsp;€</strong> / heure distanciel</p>
-      <p class="text-lg"><strong>160&nbsp;€</strong> / ½&nbsp;journée sur site</p>
-    </div>
+    <h2 class="text-3xl font-bold mb-8 text-center">Comment ça marche ?</h2>
+    <ol class="space-y-4 max-w-3xl mx-auto">
+      <li><span class="font-semibold text-indigo-400">1.</span> Appel découverte gratuit 30 min (WhatsApp ou visio).</li>
+      <li><span class="font-semibold text-indigo-400">2.</span> Vous choisissez le nombre d’heures (40 €/h). Un ordre de mission récapitule chaque demande.</li>
+      <li><span class="font-semibold text-indigo-400">3.</span> Suivi des heures en temps réel (Clockify + Trello partagé).</li>
+      <li><span class="font-semibold text-indigo-400">4.</span> Facture mensuelle basée sur les heures réellement consommées.</li>
+    </ol>
   </div>
 </section>
 
-<section id="cta" class="py-16 bg-indigo-600 text-white text-center">
+<section id="cta" class="py-20 text-center">
   <h2 class="text-3xl font-bold mb-4">Prêt·e à gagner du temps&nbsp;?</h2>
-  <p class="mb-6">Contactez-moi sur WhatsApp ou réservez un créneau Calendly.</p>
-  <div class="flex justify-center gap-4">
-    <a href="https://wa.me/33600000000" class="px-5 py-3 bg-white text-indigo-600 rounded-full">WhatsApp</a>
-    <a href="https://calendly.com/votre-lien" class="px-5 py-3 border border-white rounded-full">Calendly</a>
-  </div>
+  <p class="mb-6">Cliquez et bloquons un créneau ensemble.</p>
+  <a href="https://calendly.com/ton-lien/decouverte" class="px-8 py-3 bg-indigo-500 rounded-full font-semibold hover:bg-indigo-600">
+    Réserver un appel
+  </a>
+  <a href="https://wa.me/33600000000" class="ml-4 underline text-gray-300 hover:text-white">Ou discuter sur WhatsApp</a>
 </section>
