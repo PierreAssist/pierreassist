@@ -63,7 +63,7 @@ title: Pierre Assist
   <h3 class="text-xl font-semibold">Admin &amp; Relation Tiers</h3>
 
   <!-- liste -->
-  <ul class="list-disc list-inside text-gray-300 flex-1 space-y-1">
+  <ul class="list-disc list-outside pl-4 text-gray-300 flex-1 space-y-1 text-left">
     <li>Gestion boîte mail &amp; agenda</li>
     <li>Suivi fournisseurs / clients</li>
     <li>Démarches administratives</li>
@@ -85,7 +85,7 @@ title: Pierre Assist
   <h3 class="text-xl font-semibold">Admin &amp; Relation Tiers</h3>
 
   <!-- liste -->
-  <ul class="list-disc list-inside text-gray-300 flex-1 space-y-1">
+  <ul class="list-disc list-outside pl-4 text-gray-300 flex-1 space-y-1 text-left">
     <li>Gestion boîte mail &amp; agenda</li>
     <li>Suivi fournisseurs / clients</li>
     <li>Démarches administratives</li>
