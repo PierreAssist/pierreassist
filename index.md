@@ -15,7 +15,7 @@ title: Pierre Assist
   </a>
 </section>
 
-<section id="about" class="py-24 text-center text-white bg-[url('/assets/desk.png')] bg-cover bg-center bg-fixed relative">
+<section id="about" class="py-24 text-center text-white bg-[url('/assets/desk.jpg')] bg-cover bg-center bg-fixed relative">
   <div class="py-20 container mx-auto px-4 max-w-3xl text-center" data-aos="fade-up">
   <div class="absolute inset-0 bg-gradient-to-br from-indigo-700/80 to-violet-800/80"></div>
   <div class="relative z-10">
