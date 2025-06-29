@@ -124,19 +124,19 @@ title: Pierre Assist
       <i data-lucide="calendar" class="w-5 h-5 stroke-[2]"></i>
       Réserver un appel
     </a>
-
+    
+   <!-- Lien mail -->
+   <a href="mailto:contact@pierreassist.fr"
+       class="inline-flex items-center gap-2 px-6 py-3 border border-indigo-400 rounded-full hover:bg-indigo-600 hover:border-transparent">
+      <i data-lucide="mail" class="w-5 h-5 stroke-[2]"></i>
+      contact@pierreassist.fr
+    </a>
+    
     <!-- Bouton WhatsApp -->
   <a href="https://wa.me/33600000000"
        class="inline-flex items-center gap-2 px-6 py-3 border border-indigo-400 rounded-full hover:bg-indigo-600 hover:border-transparent">
       <i data-lucide="phone" class="w-5 h-5 stroke-[2]"></i>
       WhatsApp
-    </a>
-
-    <!-- Lien mail -->
-   <a href="mailto:contact@pierreassist.fr"
-       class="inline-flex items-center gap-2 text-gray-300 hover:text-white">
-      <i data-lucide="mail" class="w-5 h-5 stroke-[2]"></i>
-      contact@pierreassist.fr
     </a>
 
     <!-- Lien LinkedIn -->
