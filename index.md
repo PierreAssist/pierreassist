@@ -37,13 +37,16 @@ title: Pierre Assist
     <!-- carte -->
     <div class="bg-slate-800 rounded-lg p-6 transition hover:-translate-y-1 hover:shadow-lg">
   <i data-lucide="inbox" class="w-8 h-8 text-indigo-400 mb-4"></i>
-  <h3 class="text-xl font-semibold mb-2">Admin &amp; Relation Tiers</h3>
-      <ul class="list-disc list-inside text-gray-300">
+  <h3 class="text-xl font-semibold items-start text-left mb-2">Admin &amp; Relation Tiers</h3>
+      <ul class="list-disc list-inside text-gray-300 items-start text-left flex-1 space-y-1">
         <li>Gestion boîte mail &amp; agenda</li>
         <li>Suivi fournisseurs / clients</li>
         <li>Démarches administratives</li>
       </ul>
-    </div>
+    <p class="text-sm text-indigo-400 italic">
+    Gagnez ~5&nbsp;h/mois sur cette partie
+  </p>
+</div>
     <div class="bg-slate-800 rounded-lg p-6">
       <br><svg class="bg-slate-800 rounded-lg p-6 transition hover:-translate-y-1 hover:shadow-lg" fill="none" stroke="currentColor" stroke-width="2"><use href="https://unpkg.com/lucide-static@latest/icons/layers.svg#icon"/></svg>
       <h3 class="text-xl font-semibold mb-2">Pré-compta &amp; Trésorerie</h3>
