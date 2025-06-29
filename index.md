@@ -3,7 +3,7 @@ layout: default
 title: Pierre Assist
 ---
 
-<section id="intro" class="pt-28 pb-24 bg-hero-gradient text-center">
+<section id="intro" class="pt-32 pb-24 bg-hero-gradient text-center">
   <h1 class="text-4xl sm:text-5xl font-extrabold mb-4">
     Je libère votre temps : <span class="text-gray-200">administratif &amp; Excel</span>
   </h1>
