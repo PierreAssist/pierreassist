@@ -31,7 +31,7 @@ title: Pierre Assist
 
   <div class="grid md:grid-cols-3 gap-6">
     <!-- carte -->
-   <div class="bg-slate-800 rounded-lg p-6 flex flex-col items-start text-center
+   <div class="bg-slate-800 rounded-lg p-6 flex flex-col items-center text-center
             space-y-3 min-h-[260px] transition hover:-translate-y-1 hover:shadow-lg">
 
   <!-- icône -->
@@ -53,7 +53,7 @@ title: Pierre Assist
   </p>
 </div>
   <!-- carte -->
-   <div class="bg-slate-800 rounded-lg p-6 flex flex-col items-start text-center
+   <div class="bg-slate-800 rounded-lg p-6 flex flex-col items-center text-center
             space-y-3 min-h-[260px] transition hover:-translate-y-1 hover:shadow-lg">
 
   <!-- icône -->
@@ -75,7 +75,7 @@ title: Pierre Assist
   </p>
 </div>
 <!-- carte -->
-   <div class="bg-slate-800 rounded-lg p-6 flex flex-col items-start text-center
+   <div class="bg-slate-800 rounded-lg p-6 flex flex-col items-center text-center
             space-y-3 min-h-[260px] transition hover:-translate-y-1 hover:shadow-lg">
 
   <!-- icône -->
