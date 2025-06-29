@@ -22,7 +22,11 @@ title: Pierre Assist
   </div>
 </section>
 
-<br><section id="about" class="py-20 container mx-auto px-4 max-w-3xl text-center" data-aos="fade-up"><h2 class="text-3xl font-bold mb-6">À propos</h2><div class="mx-auto mb-6 w-32 h-32 rounded-full bg-slate-800 flex items-center justify-center text-gray-500">photo</div><p class="text-gray-300">[Ton texte ici&nbsp;– 3&nbsp;à&nbsp;4 phrases]</p></section>
+<br><section id="about2" class="py-20 container mx-auto px-4 max-w-3xl text-center" data-aos="fade-up">
+<h2 class="text-3xl font-bold mb-6">À propos</h2>
+<div class="mx-auto mb-6 w-32 h-32 rounded-full bg-slate-800 flex items-center justify-center text-gray-500">photo</div>
+<p class="text-gray-300">[Ton texte ici&nbsp;– 3&nbsp;à&nbsp;4 phrases]</p>
+</section>
 
 <section id="services" class="py-20 container mx-auto px-4">
   <h2 class="text-3xl font-bold text-center mb-12">Ce que je prends en charge</h2>
