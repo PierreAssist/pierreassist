@@ -23,8 +23,16 @@ title: Pierre Assist
 <img src="/assets/portrait.png"
      alt="Pierre Aussurin Teytaux"
      class="mx-auto mb-6 w-32 h-32 rounded-full object-cover">
-<p class="text-gray-300">👋 Moi c’est Pierre. J’aime deux choses : le bon café et les dossiers bien classés! Je soutiens les dirigeants et les entrepreneurs dans la gestion qutidienne de leur entreprise en leur permettant de se concentrer sur leur corps de métier. Ma marque de fabrique : transformer vos tableurs en véritables tableaux de bord et récupérer pour vous les heures perdues dans les tâches répétitives. Mon objectif ? Que vous ne passiez plus vos soirées sur la paperasse.</p>
-  </div>
+<div class="max-w-xl mx-auto text-left text-gray-300 space-y-4">
+<p>👋 Moi, c’est <strong>Pierre</strong> — passionné de bon café et de dossiers bien classés!</p>
+
+  <p>J’accompagne dirigeants et entrepreneurs dans la gestion quotidienne de leur entreprise pour qu’ils restent concentrés sur leur cœur de métier</p>
+
+  <p>Ma spécialité&nbsp;: convertir vos tableurs en véritables tableaux de bord lisibles et automatiser les tâches répétitives afin de récupérer les heures perdues.</p>
+
+  <p class="italic text-indigo-400">Mon objectif&nbsp;? Que vos soirées ne soient plus rythmées par la paperasse.</p>
+
+</div>
   </div>
 </section>
 
