@@ -7,22 +7,22 @@
 
   <!-- texte responsive -->
   <div class="leading-tight flex flex-col">
+  <!-- toujours visible -->
+  <span class="font-bold text-indigo-400">PIERRE&nbsp;ASSIST</span>
 
-    <!-- visible sur TOUTES les tailles -->
-    <span class="font-bold text-indigo-400">PIERRE&nbsp;ASSIST</span>
+  <!-- visible ≥ 640 px -->
+  <span class="hidden sm:inline text-sm text-gray-300">
+    Pierre Aussurin&nbsp;Teytaux
+  </span>
 
-    <!-- affiché ≥ 640 px (sm) -->
-    <span class="hidden sm:inline text-sm text-gray-300">Pierre Aussurin Teytaux</span>
-
-    <!-- affiché ≥ 768 px (md) -->
-    <span class="hidden md:inline text-xs text-gray-400">
-      Assistant indépendant, Saint-Maixent-l’École
-    </span>
-
-  </div>
+  <!-- tagline visible dès 640 px aussi -->
+  <span class="hidden sm:inline text-xs text-gray-400">
+    Assistant indépendant, Saint-Maixent-l’École
+  </span>
+</div>
 </a>
-    <ul class="flex gap-4 font-medium">
-      <li><a href="#cta" class="hover:text-indigo-400">Contact</a></li>
-    </ul>
+    <ul class="flex gap-4 font-medium pr-3 sm:pr-5">
+  <li><a href="#cta" class="hover:text-indigo-400">Contact</a></li>
+</ul>
   </nav>
 </header>
