@@ -93,7 +93,7 @@ title: Pierre Assist
   <i data-lucide="file-spreadsheet" class="w-8 h-8 text-indigo-400"></i>
 
   <!-- titre -->
-  <h3 class="text-xl font-semibold">Outils &amp; transition numériques</h3>
+  <h3 class="text-xl font-semibold">Outils numériques</h3>
 
   <!-- liste -->
   <ul class="list-disc list-outside pl-4 text-gray-300 flex-1 space-y-1 text-left">
