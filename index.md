@@ -5,7 +5,7 @@ title: Pierre Assist
 
 <section id="intro" class="pt-32 pb-24 bg-hero-gradient text-center">
   <h1 class="text-4xl sm:text-5xl font-extrabold mb-4">
-    Je libère votre temps : <span class="text-gray-200">administratif &amp; Excel</span>
+    Je libère votre temps : <span class="text-gray-200">moins d'administratif pour une gestion plus efficace</span>
   </h1>
   <p class="mb-8 text-lg">
     Sur site <strong>(30 km autour de Saint-Maixent-l’École)</strong> ou distanciel
