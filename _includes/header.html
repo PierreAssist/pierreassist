@@ -1,10 +1,24 @@
 <header class="fixed top-0 w-full bg-slate-950/80 backdrop-blur z-50">
   <nav class="container mx-auto flex justify-between items-center py-2 sm:py-3">
-    <a href="{{ '/' | relative_url }}" class="flex items-center gap-6">
-  <img src="/logo1.png" alt="logo1" class="flex items-center gap-4">
- <div class="leading-tight text-white">
-    <span class="block font-bold text-indigo-400">PIERRE&nbsp;ASSIST – Pierre&nbsp;AUSSURIN&nbsp;TEYTAUX</span>
-    <span class="block text-xs sm:text-sm text-gray-300">Assistant indépendant basé à Saint-Maixent-l’École</span>
+    <a href="{{ '/' | relative_url }}" class="flex items-center gap-3 sm:gap-4">
+
+  <!-- logo -->
+  <img src="/assets/logo.png" alt="Logo Pierre Assist" class="h-8 w-auto">
+
+  <!-- texte responsive -->
+  <div class="leading-tight flex flex-col">
+
+    <!-- visible sur TOUTES les tailles -->
+    <span class="font-bold text-indigo-400">PIERRE&nbsp;ASSIST</span>
+
+    <!-- affiché ≥ 640 px (sm) -->
+    <span class="hidden sm:inline text-sm text-gray-300">Pierre Aussurin Teytaux</span>
+
+    <!-- affiché ≥ 768 px (md) -->
+    <span class="hidden md:inline text-xs text-gray-400">
+      Assistant indépendant, Saint-Maixent-l’École
+    </span>
+
   </div>
 </a>
     <ul class="flex gap-4 font-medium">
