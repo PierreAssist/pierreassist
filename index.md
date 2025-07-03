@@ -114,9 +114,9 @@ title: Pierre Assist
   <div class="container mx-auto px-4">
     <h2 class="text-3xl font-bold mb-8 text-center">Comment ça marche ?</h2>
     <ol class="space-y-4 max-w-3xl mx-auto">
-      <li><span class="font-semibold text-indigo-400">1.</span> Appel découverte gratuit 30 min (WhatsApp ou visio).</li>
-      <li><span class="font-semibold text-indigo-400">2.</span> Vous choisissez le nombre d’heures (40 €/h). Un ordre de mission récapitule chaque demande.</li>
-      <li><span class="font-semibold text-indigo-400">3.</span> Suivi des heures en temps réel (Clockify + Trello partagé).</li>
+      <li><span class="font-semibold text-indigo-400">1.</span> Appel gratuit de 30 min (WhatsApp ou visio).</li>
+      <li><span class="font-semibold text-indigo-400">2.</span> Vous choisissez le nombre d’heures à la semaine ou au mois. Un ordre de mission récapitule chaque demande.</li>
+      <li><span class="font-semibold text-indigo-400">3.</span> Je vous transmet un compte rendu des tâches effectuées et du temps passé en distanciel.</li>
       <li><span class="font-semibold text-indigo-400">4.</span> Facture mensuelle basée sur les heures réellement consommées.</li>
     </ol>
   </div>
