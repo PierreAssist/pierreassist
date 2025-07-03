@@ -31,7 +31,7 @@ title: Pierre Assist
 <section id="services" class="py-20 container mx-auto px-4">
   <h2 class="text-3xl font-bold text-center mb-12">Ce que je prends en charge</h2>
 
-  <div class="grid md:grid-cols-3 gap-40">
+  <div class="grid md:grid-cols-3 gap-35">
     <!-- carte -->
    <div class="bg-slate-800 rounded-lg p-6 flex flex-col items-center text-center
             space-y-3 min-h-[260px] transition hover:-translate-y-1 hover:shadow-lg">
