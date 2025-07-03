@@ -33,7 +33,8 @@ title: Pierre Assist
   <p class="italic text-indigo-400">Mon objectif&nbsp;? Que vos soirées ne soient plus rythmées par la paperasse.</p>
 
 </div>
-  </div>
+</div>
+</div>
 </section>
 
 <section id="services" class="py-20 container mx-auto px-4">
