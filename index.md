@@ -75,7 +75,7 @@ title: Pierre Assist
   <!-- liste -->
   <ul class="list-disc list-outside pl-4 text-gray-300 flex-1 space-y-1 text-left">
     <li>Saisie &amp; pointage</li>
-    <li>Devis, facturation &amp; relances impayés</li>
+    <li>Devis, facturation &amp; relances des impayés</li>
     <li>Liaison expert-comptable</li>
   </ul>
 
