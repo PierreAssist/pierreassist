@@ -8,7 +8,7 @@ title: Pierre Assist
     Je libère votre temps : <span class="text-gray-200">administratif &amp; Excel</span>
   </h1>
   <p class="mb-8 text-lg">
-    Sur site <strong>(30 km autour de Saint-Maixent-l’École)</strong> ou 100 % distanciel
+    Sur site <strong>(30 km autour de Saint-Maixent-l’École)</strong> ou distanciel
   </p>
   <a href="#cta" class="px-8 py-3 bg-gray-100 text-slate-900 font-semibold rounded-full shadow hover:bg-white">
     Réserver un appel 30 min
