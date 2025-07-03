@@ -31,7 +31,7 @@ title: Pierre Assist
 <section id="services" class="py-20 container mx-auto px-4">
   <h2 class="text-3xl font-bold text-center mb-12">Ce que je prends en charge</h2>
 
-  <div class="grid md:grid-cols-3 gap-40">
+  <div class="grid md:grid-cols-3 gap-30">
     <!-- carte -->
    <div class="bg-slate-800 rounded-lg p-6 flex flex-col items-center text-center
             space-y-3 min-h-[260px] transition hover:-translate-y-1 hover:shadow-lg">
@@ -59,16 +59,16 @@ title: Pierre Assist
             space-y-3 min-h-[260px] transition hover:-translate-y-1 hover:shadow-lg">
 
   <!-- icône -->
-  <i data-lucide="inbox" class="w-8 h-8 text-indigo-400"></i>
+  <i data-lucide="layers" class="w-8 h-8 text-indigo-400"></i>
 
   <!-- titre -->
-  <h3 class="text-xl font-semibold">Admin &amp; Relation Tiers</h3>
+  <h3 class="text-xl font-semibold">Pré-compta &amp; Trésorerie</h3>
 
   <!-- liste -->
   <ul class="list-disc list-outside pl-4 text-gray-300 flex-1 space-y-1 text-left">
-    <li>Gestion boîte mail &amp; agenda</li>
-    <li>Suivi fournisseurs / clients</li>
-    <li>Démarches administratives</li>
+    <li>Saisie &amp; pointage</li>
+    <li>Virements, relances impayés</li>
+    <li>Interface expert-comptable</li>
   </ul>
 
   <!-- phrase valeur -->
@@ -81,16 +81,16 @@ title: Pierre Assist
             space-y-3 min-h-[260px] transition hover:-translate-y-1 hover:shadow-lg">
 
   <!-- icône -->
-  <i data-lucide="inbox" class="w-8 h-8 text-indigo-400"></i>
+  <i data-lucide="file-spreadsheet" class="w-8 h-8 text-indigo-400"></i>
 
   <!-- titre -->
-  <h3 class="text-xl font-semibold">Admin &amp; Relation Tiers</h3>
+  <h3 class="text-xl font-semibold">Outils Excel</h3>
 
   <!-- liste -->
   <ul class="list-disc list-outside pl-4 text-gray-300 flex-1 space-y-1 text-left">
-    <li>Gestion boîte mail &amp; agenda</li>
-    <li>Suivi fournisseurs / clients</li>
-    <li>Démarches administratives</li>
+    <li>Tableaux de bord</li>
+    <li>Automatisation devis-facture</li>
+    <li>Système d’archivage numérique</li>
   </ul>
 
   <!-- phrase valeur -->
