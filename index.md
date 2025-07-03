@@ -40,18 +40,18 @@ title: Pierre Assist
   <i data-lucide="inbox" class="w-8 h-8 text-indigo-400"></i>
 
   <!-- titre -->
-  <h3 class="text-xl font-semibold">Admin &amp; Relation Tiers</h3>
+  <h3 class="text-xl font-semibold">Gestion administrative</h3>
 
   <!-- liste -->
   <ul class="list-disc list-outside pl-4 text-gray-300 flex-1 space-y-1 text-left">
     <li>Gestion boîte mail &amp; agenda</li>
     <li>Suivi fournisseurs / clients</li>
-    <li>Démarches administratives</li>
+    <li>Démarches &amp; formalités</li>
   </ul>
 
   <!-- phrase valeur -->
   <p class="text-sm text-indigo-400 italic">
-    Gagnez ~5&nbsp;h/mois sur cette partie
+    Fin des rappels oubliés
   </p>
 </div>
   <!-- carte -->
@@ -67,13 +67,13 @@ title: Pierre Assist
   <!-- liste -->
   <ul class="list-disc list-outside pl-4 text-gray-300 flex-1 space-y-1 text-left">
     <li>Saisie &amp; pointage</li>
-    <li>Virements, relances impayés</li>
-    <li>Interface expert-comptable</li>
+    <li>Devis, facturation &amp; relances impayés</li>
+    <li>Liaison expert-comptable</li>
   </ul>
 
   <!-- phrase valeur -->
   <p class="text-sm text-indigo-400 italic">
-    Gagnez ~5&nbsp;h/mois sur cette partie
+    Préparez le bilan sans stress
   </p>
 </div>
 <!-- carte -->
@@ -84,18 +84,18 @@ title: Pierre Assist
   <i data-lucide="file-spreadsheet" class="w-8 h-8 text-indigo-400"></i>
 
   <!-- titre -->
-  <h3 class="text-xl font-semibold">Outils Excel</h3>
+  <h3 class="text-xl font-semibold">Outils &amp; transition numériques</h3>
 
   <!-- liste -->
   <ul class="list-disc list-outside pl-4 text-gray-300 flex-1 space-y-1 text-left">
     <li>Tableaux de bord</li>
-    <li>Automatisation devis-facture</li>
+    <li>Calcul coûts de revient</li>
     <li>Système d’archivage numérique</li>
   </ul>
 
   <!-- phrase valeur -->
   <p class="text-sm text-indigo-400 italic">
-    Gagnez ~5&nbsp;h/mois sur cette partie
+    Décisions éclairées, tranquilité assurée
   </p>
 </div>
 </div>
