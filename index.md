@@ -30,7 +30,7 @@ title: Pierre Assist
 
   <p>Ma spécialité&nbsp;: convertir vos tableurs en véritables tableaux de bord lisibles et automatiser les tâches répétitives afin de récupérer les heures perdues.</p>
 
-  <p class="italic text-indigo-300">Mon objectif&nbsp;? Que vos soirées ne soient plus rythmées par la paperasse.</p>
+  <p class="italic text-indigo-200">Mon objectif&nbsp;? Que vos soirées ne soient plus rythmées par la paperasse.</p>
 
 </div>
 </div>
