@@ -18,7 +18,7 @@ title: Mentions légales – Pierre Assist
 <p>Le directeur de la publication est <strong>Pierre Aussurin Teytaux</strong>.</p>
 
 <h2 class="text-xl font-semibold mt-8 mb-2">Nous contacter</h2>
-<p>Téléphone : <a href="tel:+33600000000" class="text-indigo-600 hover:underline">+33 6 00 00 00 00</a><br>
+<p>Téléphone : <a href="tel:+33600000000" class="text-indigo-600 hover:underline">+33 6 12 09 39 21</a><br>
 E-mail : <a href="mailto:contact@pierreassist.fr" class="text-indigo-600 hover:underline">contact@pierreassist.fr</a></p>
 
 <h2 class="text-xl font-semibold mt-8 mb-2">Propriété intellectuelle et contrefaçons</h2>
