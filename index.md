@@ -149,7 +149,7 @@ title: Pierre Assist
     </a>
 
     <!-- Lien LinkedIn -->
-  <a href="www.linkedin.com/in/pierre-aussurin-teytaux-75b09711a"
+  <a href="https://www.linkedin.com/in/pierre-aussurin-teytaux-75b09711a/"
        class="inline-flex items-center gap-2 px-6 py-3 bg-indigo-500 rounded-full font-semibold hover:bg-indigo-600">
       <i data-lucide="linkedin" class="w-5 h-5 stroke-[2]"></i>
     </a>
