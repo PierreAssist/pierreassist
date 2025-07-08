@@ -128,7 +128,7 @@ title: Pierre Assist
 
   <div class="flex flex-col sm:flex-row justify-center items-center gap-4">
     <!-- Bouton Calendly -->
-    <a href="https://calendly.com/ton-lien/decouverte"
+    <a href="https://calendly.com/contact-pierreassist/30min"
        class="inline-flex items-center gap-2 px-6 py-3 bg-indigo-500 rounded-full font-semibold hover:bg-indigo-600">
       <i data-lucide="calendar" class="w-5 h-5 stroke-[2]"></i>
       Réserver un appel
@@ -142,14 +142,14 @@ title: Pierre Assist
     </a>
     
     <!-- Bouton WhatsApp -->
-  <a href="https://wa.me/33600000000"
+  <a href="https://wa.me/33612093921"
        class="inline-flex items-center gap-2 px-6 py-3 bg-indigo-500 rounded-full font-semibold hover:bg-indigo-600">
       <i data-lucide="phone" class="w-5 h-5 stroke-[2] text-[#25D366]"></i>
       WhatsApp
     </a>
 
     <!-- Lien LinkedIn -->
-  <a href="https://www.linkedin.com/in/tonprofil"
+  <a href="www.linkedin.com/in/pierre-aussurin-teytaux-75b09711a"
        class="inline-flex items-center gap-2 px-6 py-3 bg-indigo-500 rounded-full font-semibold hover:bg-indigo-600">
       <i data-lucide="linkedin" class="w-5 h-5 stroke-[2]"></i>
     </a>
