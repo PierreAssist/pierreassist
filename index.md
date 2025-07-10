@@ -20,7 +20,7 @@ title: Pierre Assist
   <div class="absolute inset-0 bg-gradient-to-br from-indigo-700/80 to-violet-800/80"></div>
   <div class="relative z-10">
 <h2 class="text-3xl font-bold mb-6">À propos</h2>
-<img src="/assets/portrait.png"
+<img src="/assets/portrait.jpg"
      alt="Pierre Aussurin Teytaux"
      class="mx-auto mb-6 w-32 h-32 rounded-full object-cover">
 <div class="max-w-xl mx-auto text-left text-gray-300 space-y-4">
