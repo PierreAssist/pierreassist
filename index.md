@@ -157,6 +157,7 @@ title: Pierre Assist
   </div>
 </section>
 
+<!--
 <section id="faq" class="py-16 bg-slate-800" data-aos="fade-up">
   <div class="container mx-auto px-4 max-w-3xl">
     <h2 class="text-2xl font-bold mb-6 text-center">FAQ</h2>
@@ -170,3 +171,4 @@ title: Pierre Assist
       </details>
   </div>
 </section>
+-->
