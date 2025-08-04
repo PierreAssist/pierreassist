@@ -115,9 +115,8 @@ title: Pierre Assist
     <h2 class="text-3xl font-bold mb-8 text-center">Comment ça marche ?</h2>
     <ol class="space-y-4 max-w-3xl mx-auto">
       <li><span class="font-semibold text-indigo-400">1.</span> Appel gratuit de 30 min par WhatsApp ou en visio pour définir votre besoin.</li>
-      <li><span class="font-semibold text-indigo-400">2.</span> Vous choisissez le nombre d’heures sur site et/ou à distance : un ordre de mission récapitule chaque demande.</li>
-      <li><span class="font-semibold text-indigo-400">3.</span> Je vous transmet un compte rendu des tâches effectuées et du temps passé en distanciel.</li>
-      <li><span class="font-semibold text-indigo-400">4.</span> Facture mensuelle basée sur les heures réellement consommées.</li>
+      <li><span class="font-semibold text-indigo-400">2.</span> Vous choisissez le nombre d’heures mensuelles nécessaires.</li>
+      <li><span class="font-semibold text-indigo-400">3.</span> Je vous transmet un compte rendu des tâches effectuées et du temps travaillé.</li>
     </ol>
   </div>
 </section>
