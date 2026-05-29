@@ -1,38 +1,42 @@
 <!doctype html>
 <html lang="fr">
 <head>
-  <meta name="color-scheme" content="dark">
-  <meta name="description" content="Assistance administrative et outils Excel pour artisans & commerçants – sur site autour de Saint-Maixent-l’École ou à distance.">
-  <link rel="stylesheet" href="https://unpkg.com/aos@2.3.4/dist/aos.css">
-<script src="https://unpkg.com/aos@2.3.4/dist/aos.js"></script>
-<script>document.addEventListener('DOMContentLoaded',()=>AOS.init({once:true}));</script>
-  <style>
-    .bg-hero-gradient{
-    background:linear-gradient(135deg,#4f46e5 0%,#7c3aed 100%);
-    }
-  </style>
+  <meta name="color-scheme" content="light">
+  <meta name="description" content="Mentions légales du site Pierre Assist.">
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width,initial-scale=1">
   <title>{{ page.title }}</title>
   <link rel="icon" type="image/png" href="/assets/Favicon2.png">
+
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,400;0,9..144,500;0,9..144,600;1,9..144,400&family=Hanken+Grotesk:wght@400;500;600;700&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet">
+
   <script src="https://cdn.tailwindcss.com"></script>
+  <script>
+    tailwind.config = { theme: { extend: {
+      fontFamily: { display:['Fraunces','serif'], sans:['"Hanken Grotesk"','sans-serif'], mono:['"IBM Plex Mono"','monospace'] },
+      colors: { paper:'#F4F0E7', surface:'#FBF8F1', ink:'#1C1A15', inksoft:'#5b554c', accent:'#1f4d3f', accentdark:'#163a30', line:'#e3ddd0' },
+    } } }
+  </script>
+  <style>
+    body{ background:#F4F0E7; color:#1C1A15; }
+  </style>
 </head>
-<body class="bg-slate-900 text-gray-100 scroll-smooth font-sans">
+<body class="font-sans antialiased scroll-smooth">
   {% include header.html %}
-  <main class="pt-28 pb-12 px-4 sm:px-6 lg:px-8 max-w-3xl mx-auto">
+  <main class="pt-32 pb-20 px-6 sm:px-10 lg:px-16 max-w-3xl mx-auto">
     {{ content }}
   </main>
   {% include footer.html %}
-<button id="topBtn" class="hidden fixed bottom-6 right-6 p-3 bg-indigo-500 rounded-full text-white shadow-lg">&#8679;</button>
-<script>
-  const btn=document.getElementById('topBtn');
-  window.addEventListener('scroll',()=>btn.classList.toggle('hidden',window.scrollY<300));
-  btn.onclick=()=>window.scrollTo({top:0,behavior:'smooth'});
-</script>
-<script src="https://unpkg.com/lucide@latest/dist/umd/lucide.min.js"></script>
-<script>
-  // remplace chaque <i data-lucide="icon-name"> par le SVG correspondant
-  lucide.createIcons();
-</script>
+
+  <button id="topBtn" class="hidden fixed bottom-6 right-6 p-3 bg-accent text-paper rounded-full shadow-lg z-40" aria-label="Haut de page">&#8679;</button>
+  <script>
+    const btn=document.getElementById('topBtn');
+    window.addEventListener('scroll',()=>btn.classList.toggle('hidden',window.scrollY<300));
+    btn.onclick=()=>window.scrollTo({top:0,behavior:'smooth'});
+  </script>
+  <script src="https://unpkg.com/lucide@latest/dist/umd/lucide.min.js"></script>
+  <script>lucide.createIcons();</script>
 </body>
 </html>
