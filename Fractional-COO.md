@@ -129,7 +129,7 @@
 <section id="about" class="border-t border-line">
   <div class="px-6 sm:px-10 lg:px-16 py-24 max-w-5xl mx-auto grid md:grid-cols-[auto,1fr] gap-12 md:gap-16 items-start" data-aos="fade-up">
     <div class="shrink-0">
-      <img src="/assets/portrait.jpg" alt="Pierre Aussurin" class="w-40 h-40 rounded-full object-cover ring-1 ring-line">
+      <img src="/assets/portrait.png" alt="Pierre Aussurin" class="w-40 h-40 rounded-full object-cover ring-1 ring-line">
     </div>
     <div>
       <p class="font-mono text-xs uppercase tracking-[0.25em] text-accent mb-6">Qui je suis</p>
