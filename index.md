@@ -135,7 +135,7 @@
       <p class="font-mono text-xs uppercase tracking-[0.25em] text-accent mb-6">Qui je suis</p>
       <div class="space-y-4 text-lg leading-relaxed max-w-2xl">
         <p>Je m'appelle Pierre Aussurin. J'aide les experts qui ont fait de leur savoir un business à reprendre la main sur leur quotidien, en prenant l'opérationnel en charge à leur place.</p>
-        <p class="text-inksoft">J'ai une formation en gestion et en finance, un BTS en gestion de PME et un Bachelor en finance. C'est ce qui change ma façon de travailler : je ne me contente pas de mettre de l'ordre, je sais lire les chiffres d'un business et piloter avec. Marges, trésorerie, tableaux de bord, rétention, c'est mon terrain.</p>
+        <p class="text-inksoft">J'ai une formation en gestion et en finance, ce qui change ma façon de travailler : je ne me contente pas de mettre de l'ordre, je sais lire les chiffres d'un business et piloter avec. Marges, trésorerie, tableaux de bord, rétention, c'est mon terrain.</p>
         <p class="text-inksoft">Au quotidien, je structure ton organisation, tes process et tes outils, je pilote l'opérationnel, et je coordonne ton équipe et tes prestataires. Je ne prends pas les décisions à ta place : le cap reste le tien, mon travail est de le rendre réel.</p>
         <p class="text-inksoft">Je travaille à distance, partout en France, avec un nombre volontairement limité de clients pour m'investir pleinement dans chaque business.</p>
       </div>
