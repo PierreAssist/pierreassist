@@ -8,10 +8,10 @@ title: Pierre Assist · Fractional COO pour créateurs et formateurs en ligne
   <p class="rise font-mono text-xs uppercase tracking-[0.25em] text-accent mb-7" style="animation-delay:.05s">Le bras droit des créateurs débordés</p>
   <h1 class="rise font-display font-light text-5xl sm:text-6xl lg:text-7xl leading-[1.04] tracking-tight max-w-4xl" style="animation-delay:.15s">
     Tu as bâti ton business.
-    <span class="block text-indigo-100 mt-2" style="color:#1f4d3f"><span class="italic">Tu ne devrais pas</span> être coincé à le faire tourner.</span>
+    <span class="block mt-2"><span class="italic text-accent">Tu ne devrais pas</span> être coincé à le faire tourner.</span>
   </h1>
   <p class="rise mt-8 text-lg sm:text-xl text-inksoft max-w-2xl leading-relaxed" style="animation-delay:.3s">
-    Je suis le bras droit opérationnel des experts qui ont fait de leur savoir un vrai business. Je reprends le quotidien, les process, les chiffres et la coordination de ton équipe, pour te rendre ta place de patron. Tu décides, je rends ça réel.
+    Je suis le bras droit stratégique et opérationnel des experts qui ont fait de leur savoir un vrai business. Je reprends le quotidien, les process, les chiffres et la coordination de ton équipe, pour te rendre ta place de patron. Tu décides, je rends ça réel.
   </p>
   <div class="rise mt-10 flex flex-wrap items-center gap-5" style="animation-delay:.45s">
     <a href="#cta" class="inline-flex items-center gap-2 px-7 py-3.5 bg-accent text-paper rounded-full font-medium hover:bg-accentdark transition">
@@ -25,7 +25,7 @@ title: Pierre Assist · Fractional COO pour créateurs et formateurs en ligne
 <!-- ===== 01 · LE PROBLÈME ===== -->
 <section id="probleme" class="border-t border-line">
   <div class="px-6 sm:px-10 lg:px-16 py-24 max-w-4xl mx-auto">
-    <p class="font-mono text-xs uppercase tracking-[0.25em] text-accent mb-6" data-aos="fade-up">01 — Le problème</p>
+    <p class="font-mono text-xs uppercase tracking-[0.25em] text-accent mb-6" data-aos="fade-up">01 · Le problème</p>
     <h2 class="font-display font-light text-3xl sm:text-4xl leading-snug mb-6 max-w-3xl" data-aos="fade-up">Ton business tourne. Le souci, c'est qu'il tourne sur toi.</h2>
     <p class="text-inksoft text-lg leading-relaxed max-w-2xl mb-12" data-aos="fade-up">
       Tu as réussi le plus dur : une offre qui se vend, des clients, du chiffre. Mais plus ça grossit, moins tu passes de temps sur ce que tu sais faire de mieux, et plus tu passes tes journées à éteindre des feux.
@@ -45,7 +45,7 @@ title: Pierre Assist · Fractional COO pour créateurs et formateurs en ligne
 <!-- ===== 02 · CE QUE JE FAIS ===== -->
 <section id="services" class="border-t border-line bg-surface">
   <div class="px-6 sm:px-10 lg:px-16 py-24 max-w-6xl mx-auto">
-    <p class="font-mono text-xs uppercase tracking-[0.25em] text-accent mb-6" data-aos="fade-up">02 — Ce que je fais</p>
+    <p class="font-mono text-xs uppercase tracking-[0.25em] text-accent mb-6" data-aos="fade-up">02 · Ce que je fais</p>
     <h2 class="font-display font-light text-3xl sm:text-4xl leading-snug mb-6 max-w-3xl" data-aos="fade-up">Ce que je fais, concrètement</h2>
     <p class="text-inksoft text-lg leading-relaxed max-w-2xl" data-aos="fade-up">
       Ni une VA qui exécute des tâches, ni un consultant qui repart avec un rapport. J'entre dans ton business, je mets de l'ordre, puis je pilote le quotidien avec toi. Tu décides, je rends ça réel.
@@ -81,7 +81,7 @@ title: Pierre Assist · Fractional COO pour créateurs et formateurs en ligne
 <!-- ===== 03 · COMMENT ON TRAVAILLE ENSEMBLE ===== -->
 <section id="methode" class="border-t border-line">
   <div class="px-6 sm:px-10 lg:px-16 py-24 max-w-4xl mx-auto">
-    <p class="font-mono text-xs uppercase tracking-[0.25em] text-accent mb-6" data-aos="fade-up">03 — Comment on travaille ensemble</p>
+    <p class="font-mono text-xs uppercase tracking-[0.25em] text-accent mb-6" data-aos="fade-up">03 · Comment on travaille ensemble</p>
     <h2 class="font-display font-light text-3xl sm:text-4xl leading-snug mb-6 max-w-3xl" data-aos="fade-up">Concrètement, voilà ce qui se passe</h2>
     <p class="text-inksoft text-lg leading-relaxed max-w-2xl" data-aos="fade-up">
       Mon accompagnement se passe en deux temps : un premier mois pour poser les fondations, puis un pilotage récurrent, mois après mois. On s'engage dans la durée, parce que structurer un business et le faire tourner, ça ne se règle pas en deux semaines. C'est fait pour des business qui tournent déjà et qui ont du chiffre à piloter.
@@ -89,19 +89,19 @@ title: Pierre Assist · Fractional COO pour créateurs et formateurs en ligne
 
     <h3 class="font-display text-2xl mt-16 mb-2" data-aos="fade-up">Le premier mois, semaine après semaine</h3>
     <div class="max-w-3xl">
-      <div class="grid sm:grid-cols-[150px,1fr] gap-1 sm:gap-8 py-6 border-t border-line" data-aos="fade-up">
+      <div class="grid sm:grid-cols-[150px_1fr] gap-1 sm:gap-8 py-6 border-t border-line" data-aos="fade-up">
         <div class="font-mono text-xs uppercase tracking-[0.2em] text-accent pt-1">Semaine 1</div>
         <div><h4 class="font-display text-xl mb-2">J'observe.</h4><p class="text-inksoft leading-relaxed">J'obtiens un accès en lecture et je regarde comment ta boîte tourne vraiment. Je t'interroge, toi et ton équipe. Pas de chamboulement, juste comprendre.</p></div>
       </div>
-      <div class="grid sm:grid-cols-[150px,1fr] gap-1 sm:gap-8 py-6 border-t border-line" data-aos="fade-up">
+      <div class="grid sm:grid-cols-[150px_1fr] gap-1 sm:gap-8 py-6 border-t border-line" data-aos="fade-up">
         <div class="font-mono text-xs uppercase tracking-[0.2em] text-accent pt-1">Semaine 2</div>
         <div><h4 class="font-display text-xl mb-2">Je creuse.</h4><p class="text-inksoft leading-relaxed">Je cartographie tes process, j'épluche tes chiffres (marge réelle, trésorerie, rentabilité par offre) et je suis un de tes clients de bout en bout pour repérer où ça fuit.</p></div>
       </div>
-      <div class="grid sm:grid-cols-[150px,1fr] gap-1 sm:gap-8 py-6 border-t border-line" data-aos="fade-up">
+      <div class="grid sm:grid-cols-[150px_1fr] gap-1 sm:gap-8 py-6 border-t border-line" data-aos="fade-up">
         <div class="font-mono text-xs uppercase tracking-[0.2em] text-accent pt-1">Semaine 3</div>
         <div><h4 class="font-display text-xl mb-2">J'agis sur l'urgent.</h4><p class="text-inksoft leading-relaxed">J'isole les cinq problèmes qui te coûtent le plus, et je lance les premiers quick wins, ceux qui se voient tout de suite.</p></div>
       </div>
-      <div class="grid sm:grid-cols-[150px,1fr] gap-1 sm:gap-8 py-6 border-t border-b border-line" data-aos="fade-up">
+      <div class="grid sm:grid-cols-[150px_1fr] gap-1 sm:gap-8 py-6 border-t border-b border-line" data-aos="fade-up">
         <div class="font-mono text-xs uppercase tracking-[0.2em] text-accent pt-1">Semaine 4</div>
         <div><h4 class="font-display text-xl mb-2">Je te livre les fondations.</h4><p class="text-inksoft leading-relaxed">Un rapport d'audit clair, ton QG centralisé prêt à l'emploi, et un plan d'action pour les 90 jours qui suivent.</p></div>
       </div>
@@ -125,7 +125,7 @@ title: Pierre Assist · Fractional COO pour créateurs et formateurs en ligne
 
 <!-- ===== À PROPOS ===== -->
 <section id="about" class="border-t border-line">
-  <div class="px-6 sm:px-10 lg:px-16 py-24 max-w-5xl mx-auto grid md:grid-cols-[auto,1fr] gap-12 md:gap-16 items-start" data-aos="fade-up">
+  <div class="px-6 sm:px-10 lg:px-16 py-24 max-w-5xl mx-auto grid md:grid-cols-[auto_1fr] gap-12 md:gap-16 items-start" data-aos="fade-up">
     <div class="shrink-0">
       <img src="/assets/portrait.jpg" alt="Pierre Aussurin" class="w-40 h-40 rounded-full object-cover ring-1 ring-line">
     </div>
