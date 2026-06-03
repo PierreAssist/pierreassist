@@ -106,22 +106,22 @@ title: Pierre Assist · Fractional COO pour créateurs et formateurs en ligne
       </div>
       <div class="grid sm:grid-cols-[150px_1fr] gap-1 sm:gap-8 py-6 border-t border-b border-line" data-aos="fade-up">
         <div class="font-mono text-xs uppercase tracking-[0.2em] text-accent pt-1">Semaine 4</div>
-        <div><h4 class="font-display text-xl mb-2">Je te livre les fondations.</h4><p class="text-inksoft leading-relaxed">Un rapport d'audit clair, ton QG centralisé prêt à l'emploi, et un plan d'action pour les 90 jours qui suivent.</p></div>
+        <div><h4 class="font-display text-xl mb-2">Je te livre les fondations.</h4><p class="text-inksoft leading-relaxed">Je te livre les fondations, tout est posé, cap clair pour 90 jours.</p></div>
       </div>
     </div>
-
-    <h3 class="font-display text-2xl mt-16 mb-4" data-aos="fade-up">Les mois d'après, ton nouveau rythme</h3>
-    <p class="text-inksoft text-lg leading-relaxed max-w-2xl" data-aos="fade-up">
-      Là, je deviens vraiment ton bras droit. Un point chaque semaine, un rapport d'une page chaque mois, une revue stratégique chaque trimestre. Entre les deux, je tiens le quotidien, tu n'es jamais dans le flou, et tu n'as plus à tout porter.
-    </p>
-
-    <h3 class="font-display text-2xl mt-16 mb-6" data-aos="fade-up">Ce que tu repars avec, dès le premier mois</h3>
+    
+<h3 class="font-display text-2xl mt-16 mb-6" data-aos="fade-up">Ce que tu repars avec, dès le premier mois</h3>
     <ul class="space-y-4 max-w-2xl" data-aos="fade-up">
       <li class="flex gap-3"><i data-lucide="check" class="w-5 h-5 text-accent shrink-0 mt-0.5"></i><span>Un rapport d'audit qui pose noir sur blanc où tu en es et où ça coince.</span></li>
       <li class="flex gap-3"><i data-lucide="check" class="w-5 h-5 text-accent shrink-0 mt-0.5"></i><span>Ton QG dans Notion : process, tâches, prestataires, procédures, au même endroit.</span></li>
       <li class="flex gap-3"><i data-lucide="check" class="w-5 h-5 text-accent shrink-0 mt-0.5"></i><span>Un tableau de bord chiffré : marge, trésorerie, rétention, en un coup d'œil.</span></li>
       <li class="flex gap-3"><i data-lucide="check" class="w-5 h-5 text-accent shrink-0 mt-0.5"></i><span>Tes tâches clés documentées, exécutables sans toi.</span></li>
       <li class="flex gap-3"><i data-lucide="check" class="w-5 h-5 text-accent shrink-0 mt-0.5"></i><span>Un plan d'action priorisé pour les 90 jours suivants.</span></li>
+    <h3 class="font-display text-2xl mt-16 mb-4" data-aos="fade-up">Les mois d'après, ton nouveau rythme</h3>
+    <p class="text-inksoft text-lg leading-relaxed max-w-2xl" data-aos="fade-up">
+      Là, je deviens vraiment ton bras droit. Un point chaque semaine, un rapport d'une page chaque mois, une revue stratégique chaque trimestre. Entre les deux, je tiens le quotidien, tu n'es jamais dans le flou, et tu n'as plus à tout porter.
+    </p>
+
     </ul>
   </div>
 </section>
@@ -136,9 +136,9 @@ title: Pierre Assist · Fractional COO pour créateurs et formateurs en ligne
       <p class="font-mono text-xs uppercase tracking-[0.25em] text-accent mb-6">Qui je suis</p>
       <div class="space-y-4 text-lg leading-relaxed max-w-2xl">
         <p>Je m'appelle <span class="font-display italic">Pierre Aussurin</span>. J'aide les experts qui ont fait de leur savoir un business à reprendre la main sur leur quotidien, en prenant l'opérationnel en charge à leur place.</p>
-        <p class="text-inksoft">J'ai une formation en gestion et en finance, un BTS en gestion de PME et un Bachelor en finance. C'est ce qui change ma façon de travailler : je ne me contente pas de mettre de l'ordre, je sais lire les chiffres d'un business et piloter avec. Marges, trésorerie, tableaux de bord, rétention, c'est mon terrain.</p>
+        <p class="text-inksoft">Formé en gestion d'entreprise et finance, ce qui change ma façon de travailler : je ne me contente pas de mettre de l'ordre, je sais lire les chiffres d'un business et piloter avec. Marges, trésorerie, tableaux de bord, rétention, c'est mon terrain.</p>
         <p class="text-inksoft">Au quotidien, je structure ton organisation, tes process et tes outils, je pilote l'opérationnel, et je coordonne ton équipe et tes prestataires. Je ne prends pas les décisions à ta place : le cap reste le tien, mon travail est de le rendre réel.</p>
-        <p class="text-inksoft">Je travaille à distance, partout en France, avec un nombre volontairement limité de clients pour m'investir pleinement dans chaque business.</p>
+        <p class="text-inksoft">Je travaille avec un nombre volontairement limité de clients. Pas par manque de demande, mais parce qu'être vraiment le bras droit de quelqu'un, ça ne se fait pas à la chaîne.</p>
       </div>
     </div>
   </div>
