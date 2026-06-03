@@ -48,9 +48,9 @@ title: Pierre Assist · Fractional COO pour créateurs et formateurs en ligne
     <p class="font-mono text-xs uppercase tracking-[0.25em] text-accent mb-6" data-aos="fade-up">02 · Ce que je fais</p>
     <h2 class="font-display font-light text-3xl sm:text-4xl leading-snug mb-6 max-w-3xl" data-aos="fade-up">Ce que je fais, concrètement</h2>
     <p class="text-inksoft text-lg leading-relaxed max-w-2xl" data-aos="fade-up">
-      Ni une VA qui exécute des tâches, ni un consultant qui repart avec un rapport. J'entre dans ton business, je mets de l'ordre, puis je pilote le quotidien avec toi. Tu décides, je rends ça réel.
+      Ni un VA qui exécute des tâches, ni un consultant qui repart avec un rapport. J'entre dans ton business, je mets de l'ordre, puis je pilote le quotidien avec toi. Tu décides, je rends ça réel.
     </p>
-    <div class="grid sm:grid-cols-2 lg:grid-cols-4 gap-px bg-line mt-14 border border-line" data-aos="fade-up">
+     <div class="grid sm:grid-cols-2 gap-px bg-line mt-14 border border-line" data-aos="fade-up">
       <div class="bg-surface p-8 sm:p-10">
         <i data-lucide="workflow" class="w-6 h-6 text-accent mb-5"></i>
         <h3 class="font-display text-xl mb-3">Tes process et ton organisation</h3>
