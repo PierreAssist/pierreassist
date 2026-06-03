@@ -28,7 +28,7 @@ title: Pierre Assist · Fractional COO pour créateurs et formateurs en ligne
     <p class="font-mono text-xs uppercase tracking-[0.25em] text-accent mb-6" data-aos="fade-up">01 · Le problème</p>
     <h2 class="font-display font-light text-3xl sm:text-4xl leading-snug mb-6 max-w-3xl" data-aos="fade-up">Ton business tourne. Le souci, c'est qu'il tourne sur toi.</h2>
     <p class="text-inksoft text-lg leading-relaxed max-w-2xl mb-12" data-aos="fade-up">
-      Tu as réussi le plus dur : une offre qui se vend, des clients, du chiffre. Mais plus ça grossit, moins tu passes de temps sur ce que tu sais faire de mieux, et plus tu passes tes journées à éteindre des feux.
+      Tu as réussi le plus dur : une offre qui se vend, des clients, du chiffre. Mais plus ça grossit, moins tu passes de temps sur ce que tu sais faire de mieux, et plus le reste prend toute la place.
     </p>
     <ul class="max-w-3xl">
       <li class="flex gap-5 py-6 border-t border-line" data-aos="fade-up"><span class="font-mono text-sm text-accent shrink-0 pt-1">01</span><p>Tes journées partent dans l'opérationnel : répondre aux membres, relancer un prestataire, préparer le prochain lancement. Ta vraie zone de génie attend son tour.</p></li>
@@ -44,11 +44,11 @@ title: Pierre Assist · Fractional COO pour créateurs et formateurs en ligne
 
 <!-- ===== 02 · CE QUE JE FAIS ===== -->
 <section id="services" class="border-t border-line bg-surface">
-  <div class="px-6 sm:px-10 lg:px-16 py-24 max-w-6xl mx-auto">
+  <div class="px-6 sm:px-10 lg:px-16 py-24 max-w-4xl mx-auto">
     <p class="font-mono text-xs uppercase tracking-[0.25em] text-accent mb-6" data-aos="fade-up">02 · Ce que je fais</p>
     <h2 class="font-display font-light text-3xl sm:text-4xl leading-snug mb-6 max-w-3xl" data-aos="fade-up">Ce que je fais, concrètement</h2>
     <p class="text-inksoft text-lg leading-relaxed max-w-2xl" data-aos="fade-up">
-      Ni un VA qui exécute des tâches, ni un consultant qui repart avec un rapport. J'entre dans ton business, je mets de l'ordre, puis je pilote le quotidien avec toi. Tu décides, je rends ça réel.
+      Ni un VA qui exécute des tâches, ni un consultant qui repart avec un rapport. Je m'intègre à ton organisation, je mets de l'ordre, puis je pilote le quotidien avec toi. Tu décides, je rends ça réel.
     </p>
      <div class="grid sm:grid-cols-2 gap-px bg-line mt-14 border border-line" data-aos="fade-up">
       <div class="bg-surface p-8 sm:p-10">
@@ -72,9 +72,12 @@ title: Pierre Assist · Fractional COO pour créateurs et formateurs en ligne
         <p class="text-inksoft leading-relaxed">Je brief, je valide la qualité, je coordonne, à ta place. Tu récupères ta charge mentale.</p>
       </div>
     </div>
-    <p class="text-sm text-inksoft leading-relaxed max-w-2xl mt-10" data-aos="fade-up">
-      Et ce que je ne fais pas : je ne crée pas ton contenu, je ne fais pas ton copywriting, ton design ou ta compta officielle. Pour ça, je trouve les bonnes personnes et je pilote leur travail. Je préfère être excellent sur mon terrain plutôt que moyen partout.
-    </p>
+    <div class="mt-12 max-w-3xl border border-line rounded-lg p-8 sm:p-10" data-aos="fade-up">
+  <h3 class="font-display text-2xl mb-3">Je ne fais pas tout, et c'est voulu.</h3>
+  <p class="text-inksoft leading-relaxed">
+    Je ne touche pas à ton contenu, ton copywriting, ton design ni ta compta. Pour ça, je m'entoure des bonnes personnes et je pilote leur travail. Mon métier, c'est de faire tourner la machine, pas de tout faire moi-même. Je préfère être excellent sur mon terrain plutôt que moyen partout.
+  </p>
+</div>
   </div>
 </section>
 
@@ -157,9 +160,11 @@ title: Pierre Assist · Fractional COO pour créateurs et formateurs en ligne
         <i data-lucide="mail" class="w-5 h-5"></i>
         contact@pierreassist.fr
       </a>
-      <a href="https://www.linkedin.com/in/pierre-aussurin-teytaux-75b09711a/" class="inline-flex items-center justify-center w-12 h-12 border border-paper/40 text-paper rounded-full hover:bg-paper/10 transition" aria-label="LinkedIn">
-        <i data-lucide="linkedin" class="w-5 h-5"></i>
-      </a>
+      <a href="https://www.linkedin.com/in/pierre-aussurin-75b09711a/" class="inline-flex items-center justify-center w-12 h-12 border border-paper/40 text-paper rounded-full hover:bg-paper/10 transition" aria-label="LinkedIn">
+  <svg viewBox="0 0 24 24" fill="currentColor" class="w-5 h-5" aria-hidden="true">
+    <path d="M20.45 20.45h-3.56v-5.57c0-1.33-.02-3.04-1.85-3.04-1.85 0-2.14 1.45-2.14 2.94v5.67H9.34V9h3.42v1.56h.05c.48-.9 1.64-1.85 3.37-1.85 3.6 0 4.27 2.37 4.27 5.46v6.28zM5.34 7.43a2.06 2.06 0 1 1 0-4.13 2.06 2.06 0 0 1 0 4.13zM7.12 20.45H3.55V9h3.57v11.45zM22.22 0H1.77C.79 0 0 .77 0 1.73v20.54C0 23.23.79 24 1.77 24h20.45c.98 0 1.78-.77 1.78-1.73V1.73C24 .77 23.2 0 22.22 0z"/>
+  </svg>
+</a>
     </div>
   </div>
 </section>
