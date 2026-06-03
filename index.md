@@ -6,7 +6,7 @@
     <span class="italic text-accent">Tu ne devrais pas</span> être coincé à le faire tourner.
   </h1>
   <p class="rise mt-8 text-lg sm:text-xl text-inksoft max-w-2xl leading-relaxed" style="animation-delay:.3s">
-    Je suis le bras droit opérationnel des experts qui ont fait de leur savoir un vrai business. Je reprends le quotidien, les process, les chiffres et la coordination de ton équipe, pour te rendre ta place de patron. Tu décides, je rends ça réel.
+    Je suis le bras droit stratégique et opérationnel des experts qui ont fait de leur savoir un vrai business. Je reprends le quotidien, les process, les chiffres et la coordination de ton équipe, pour te rendre ta place de patron. Tu décides, je rends ça réel.
   </p>
   <div class="rise mt-10 flex flex-wrap items-center gap-5" style="animation-delay:.45s">
     <a href="#cta" class="inline-flex items-center gap-2 px-7 py-3.5 bg-accent text-paper rounded-full font-medium hover:bg-accentdark transition">
