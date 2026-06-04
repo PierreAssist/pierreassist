@@ -90,7 +90,10 @@ La création de contenu, le copywriting, le design, la compta officielle, ce n'e
       Mon accompagnement se passe en deux temps : un premier mois pour poser les fondations, puis un pilotage récurrent, mois après mois. On s'engage dans la durée, parce que structurer un business et le faire tourner, ça ne se règle pas en deux semaines. C'est fait pour des business qui tournent déjà et qui ont du chiffre à piloter.
     </p>
 
-    <h3 class="font-display text-2xl mt-16 mb-2" data-aos="fade-up">Le premier mois, semaine après semaine</h3>
+   <h3 class="font-display text-2xl mt-16 mb-4" data-aos="fade-up">Le premier mois, on pose les fondations</h3>
+<p class="text-inksoft text-lg leading-relaxed max-w-2xl mb-2" data-aos="fade-up">
+  Je fais le tour complet de ton business : ton organisation, tes process, tes outils, tes chiffres. Je repère tout ce qui te coûte du temps, de l'argent et de l'énergie, et je remets de l'ordre là où il en faut. C'est un mois dense. Voilà comment il se déroule, semaine après semaine.
+</p>
     <div class="max-w-3xl">
       <div class="grid sm:grid-cols-[150px_1fr] gap-1 sm:gap-8 py-6 border-t border-line" data-aos="fade-up">
         <div class="font-mono text-xs uppercase tracking-[0.2em] text-accent pt-1">Semaine 1</div>
@@ -167,7 +170,7 @@ La création de contenu, le copywriting, le design, la compta officielle, ce n'e
       <p class="font-mono text-xs uppercase tracking-[0.25em] text-accent mb-6">Qui je suis</p>
       <div class="space-y-4 text-lg leading-relaxed max-w-2xl">
         <p>Je m'appelle <span class="font-display italic">Pierre Aussurin</span>. J'aide les experts qui ont fait de leur savoir un business à reprendre la main sur leur quotidien, en prenant l'opérationnel en charge à leur place.</p>
-        <p class="text-inksoft">Formé en gestion d'entreprise et finance, ce qui change ma façon de travailler : je ne me contente pas de mettre de l'ordre, je sais lire les chiffres d'un business et piloter avec. Marges, trésorerie, tableaux de bord, rétention, c'est mon terrain.</p>
+        <p class="text-inksoft">Formé en gestion d'entreprise et en finance, je ne me contente pas de mettre de l'ordre : je sais aussi lire les chiffres d'un business et piloter avec. Marges, trésorerie, tableaux de bord, rétention, c'est mon terrain.</p>
         <p class="text-inksoft">Au quotidien, je structure ton organisation, tes process et tes outils, je pilote l'opérationnel, et je coordonne ton équipe et tes prestataires. Je ne prends pas les décisions à ta place : le cap reste le tien, mon travail est de le rendre réel.</p>
         <p class="text-inksoft">Je travaille avec un nombre volontairement limité de clients. Pas par manque de demande, mais parce qu'être vraiment le bras droit de quelqu'un, ça ne se fait pas à la chaîne.</p>
       </div>
