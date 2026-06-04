@@ -75,7 +75,7 @@ title: Pierre Assist · Fractional COO pour créateurs et formateurs en ligne
     <div class="mt-12 max-w-3xl border border-line rounded-lg p-8 sm:p-10" data-aos="fade-up">
   <h3 class="font-display text-2xl mb-3">Je ne fais pas tout, et c'est voulu.</h3>
   <p class="text-inksoft leading-relaxed">
-    Je ne touche pas à ton contenu, ton copywriting, ton design ni ta compta. Pour ça, je m'entoure des bonnes personnes et je pilote leur travail. Mon métier, c'est de faire tourner la machine, pas de tout faire moi-même. Je préfère être excellent sur mon terrain plutôt que moyen partout.
+La création de contenu, le copywriting, le design, la compta officielle, ce n'est pas mon métier. Quand ton business en a besoin, je te trouve les bonnes personnes et je pilote leur travail, pour que tu n'aies ni à les chercher ni à les gérer. Je préfère être excellent sur mon terrain plutôt que moyen partout.
   </p>
 </div>
   </div>
@@ -123,6 +123,37 @@ title: Pierre Assist · Fractional COO pour créateurs et formateurs en ligne
     </p>
 
     </ul>
+  </div>
+</section>
+
+<!-- ===== 04 · COMMENT ÇA COMMENCE ===== -->
+<section id="process" class="border-t border-line bg-surface">
+  <div class="px-6 sm:px-10 lg:px-16 py-24 max-w-4xl mx-auto">
+    <p class="font-mono text-xs uppercase tracking-[0.25em] text-accent mb-6" data-aos="fade-up">04 — Comment ça commence</p>
+    <h2 class="font-display font-light text-3xl sm:text-4xl leading-snug mb-14 max-w-3xl" data-aos="fade-up">Et concrètement, on commence comment ?</h2>
+    <ol class="space-y-10">
+      <li class="flex gap-6 items-start" data-aos="fade-up">
+        <span class="font-display text-4xl text-accent/40 leading-none shrink-0 w-12">1</span>
+        <div>
+          <h3 class="font-display text-xl mb-2">On échange 30 minutes</h3>
+          <p class="text-inksoft leading-relaxed max-w-2xl">Un appel, sans engagement, pour comprendre où tu en es et voir si on est faits pour bosser ensemble. Si je ne suis pas la bonne personne pour toi, je te le dirai.</p>
+        </div>
+      </li>
+      <li class="flex gap-6 items-start" data-aos="fade-up">
+        <span class="font-display text-4xl text-accent/40 leading-none shrink-0 w-12">2</span>
+        <div>
+          <h3 class="font-display text-xl mb-2">On démarre par le mois de fondations</h3>
+          <p class="text-inksoft leading-relaxed max-w-2xl">Si c'est un oui des deux côtés, j'entre dans ton business et je pose les bases.</p>
+        </div>
+      </li>
+      <li class="flex gap-6 items-start" data-aos="fade-up">
+        <span class="font-display text-4xl text-accent/40 leading-none shrink-0 w-12">3</span>
+        <div>
+          <h3 class="font-display text-xl mb-2">On pilote ensemble</h3>
+          <p class="text-inksoft leading-relaxed max-w-2xl">Ensuite, on avance avec un rythme clair : des points réguliers, un reporting simple, des décisions prises sur du concret. Tu n'es jamais dans le flou.</p>
+        </div>
+      </li>
+    </ol>
   </div>
 </section>
 
