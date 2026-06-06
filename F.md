@@ -8,7 +8,7 @@ title: Pierre Assist · Fractional COO pour créateurs et formateurs en ligne
   <p class="rise font-mono text-xs uppercase tracking-[0.25em] text-accent mb-7" style="animation-delay:.05s">Le bras droit des créateurs débordés</p>
   <h1 class="rise font-display font-light text-5xl sm:text-6xl lg:text-7xl leading-[1.04] tracking-tight max-w-4xl" style="animation-delay:.15s">
     Tu as bâti ton business.
-    <span class="block mt-2"><span class="italic text-accent">Tu ne devrais pas</span> être coincé à le faire tourner.</span>
+    <span class="block mt-2"><span class="italic text-terra">Tu ne devrais pas</span> être coincé à le faire tourner.</span>
   </h1>
   <p class="rise mt-8 text-lg sm:text-xl text-inksoft max-w-2xl leading-relaxed" style="animation-delay:.3s">
     Je suis le bras droit stratégique et opérationnel des experts qui ont fait de leur savoir un vrai business. Je reprends le quotidien, les process, les chiffres et la coordination de ton équipe, pour te rendre ta place de patron. Tu décides, je rends ça réel.
@@ -115,24 +115,23 @@ La création de contenu, le copywriting, le design, la compta officielle, ce n'e
     
 <h3 class="font-display text-2xl mt-16 mb-6" data-aos="fade-up">Ce que tu repars avec, dès le premier mois</h3>
     <ul class="space-y-4 max-w-2xl" data-aos="fade-up">
-      <li class="flex gap-3"><i data-lucide="check" class="w-5 h-5 text-accent shrink-0 mt-0.5"></i><span>Un rapport d'audit qui pose noir sur blanc où tu en es et où ça coince.</span></li>
-      <li class="flex gap-3"><i data-lucide="check" class="w-5 h-5 text-accent shrink-0 mt-0.5"></i><span>Ton QG dans Notion : process, tâches, prestataires, procédures, au même endroit.</span></li>
-      <li class="flex gap-3"><i data-lucide="check" class="w-5 h-5 text-accent shrink-0 mt-0.5"></i><span>Un tableau de bord chiffré : marge, trésorerie, rétention, en un coup d'œil.</span></li>
-      <li class="flex gap-3"><i data-lucide="check" class="w-5 h-5 text-accent shrink-0 mt-0.5"></i><span>Tes tâches clés documentées, exécutables sans toi.</span></li>
-      <li class="flex gap-3"><i data-lucide="check" class="w-5 h-5 text-accent shrink-0 mt-0.5"></i><span>Un plan d'action priorisé pour les 90 jours suivants.</span></li>
-    <h3 class="font-display text-2xl mt-16 mb-4" data-aos="fade-up">Les mois d'après, ton nouveau rythme</h3>
+      <li class="flex gap-3"><i data-lucide="check" class="w-5 h-5 text-terra shrink-0 mt-0.5"></i><span>Un rapport d'audit qui pose noir sur blanc où tu en es et où ça coince.</span></li>
+      <li class="flex gap-3"><i data-lucide="check" class="w-5 h-5 text-terra shrink-0 mt-0.5"></i><span>Ton QG dans Notion : process, tâches, prestataires, procédures, au même endroit.</span></li>
+      <li class="flex gap-3"><i data-lucide="check" class="w-5 h-5 text-terra shrink-0 mt-0.5"></i><span>Un tableau de bord chiffré : marge, trésorerie, rétention, en un coup d'œil.</span></li>
+      <li class="flex gap-3"><i data-lucide="check" class="w-5 h-5 text-terra shrink-0 mt-0.5"></i><span>Tes tâches clés documentées, exécutables sans toi.</span></li>
+      <li class="flex gap-3"><i data-lucide="check" class="w-5 h-5 text-terra shrink-0 mt-0.5"></i><span>Un plan d'action priorisé pour les 90 jours suivants.</span></li>
+</ul>
+<h3 class="font-display text-2xl mt-16 mb-4" data-aos="fade-up">Les mois d'après, ton nouveau rythme</h3>
     <p class="text-inksoft text-lg leading-relaxed max-w-2xl" data-aos="fade-up">
       Là, je deviens vraiment ton bras droit. Un point chaque semaine, un rapport d'une page chaque mois, une revue stratégique chaque trimestre. Entre les deux, je tiens le quotidien, tu n'es jamais dans le flou, et tu n'as plus à tout porter.
     </p>
-
-    </ul>
   </div>
 </section>
 
 <!-- ===== 04 · COMMENT ÇA COMMENCE ===== -->
 <section id="process" class="border-t border-line bg-surface">
   <div class="px-6 sm:px-10 lg:px-16 py-24 max-w-4xl mx-auto">
-    <p class="font-mono text-xs uppercase tracking-[0.25em] text-accent mb-6" data-aos="fade-up">04 — Comment ça commence</p>
+    <p class="font-mono text-xs uppercase tracking-[0.25em] text-accent mb-6" data-aos="fade-up">04 · Comment ça commence</p>
     <h2 class="font-display font-light text-3xl sm:text-4xl leading-snug mb-14 max-w-3xl" data-aos="fade-up">Et concrètement, on commence comment ?</h2>
     <ol class="space-y-10">
       <li class="flex gap-6 items-start" data-aos="fade-up">
@@ -146,7 +145,7 @@ La création de contenu, le copywriting, le design, la compta officielle, ce n'e
         <span class="font-display text-4xl text-accent/40 leading-none shrink-0 w-12">2</span>
         <div>
           <h3 class="font-display text-xl mb-2">On démarre par le mois de fondations</h3>
-          <p class="text-inksoft leading-relaxed max-w-2xl">Si c'est un oui des deux côtés, j'entre dans ton business et je pose les bases.</p>
+          <p class="text-inksoft leading-relaxed max-w-2xl">Si c'est un oui des deux côtés, je m'intègre à ton organisation et je pose les bases.</p>
         </div>
       </li>
       <li class="flex gap-6 items-start" data-aos="fade-up">
