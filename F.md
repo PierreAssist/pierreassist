@@ -31,9 +31,9 @@ title: Pierre Assist · Fractional COO pour créateurs et formateurs en ligne
       Tu as réussi le plus dur : une offre qui se vend, des clients, du chiffre. Mais plus ça grossit, moins tu passes de temps sur ce que tu sais faire de mieux, et plus le reste prend toute la place.
     </p>
     <ul class="max-w-3xl">
-      <li class="flex gap-5 py-6 border-t border-line" data-aos="fade-up"><span class="font-mono text-sm text-accent shrink-0 pt-1">01</span><p>Tes journées partent dans l'opérationnel : répondre aux membres, relancer un prestataire, préparer le prochain lancement. Ta vraie zone de génie attend son tour.</p></li>
+      <li class="flex gap-5 py-6 border-t border-line" data-aos="fade-up"><span class="font-mono text-sm text-accent shrink-0 pt-1">01</span><p>Tes journées partent dans l'opérationnel : répondre aux membres, relancer un prestataire, préparer le prochain lancement. Ton vrai métier attend son tour.</p></li>
       <li class="flex gap-5 py-6 border-t border-line" data-aos="fade-up"><span class="font-mono text-sm text-accent shrink-0 pt-1">02</span><p>Tu pilotes tes chiffres au feeling. Ta marge réelle, la rentabilité de ton dernier lancement, ton taux de désabonnement, tu les sens plus que tu ne les sais.</p></li>
-      <li class="flex gap-5 py-6 border-t border-line" data-aos="fade-up"><span class="font-mono text-sm text-accent shrink-0 pt-1">03</span><p>Tu as une VA, des prestataires, mais les coordonner te prend presque autant de temps que de tout faire toi-même.</p></li>
+      <li class="flex gap-5 py-6 border-t border-line" data-aos="fade-up"><span class="font-mono text-sm text-accent shrink-0 pt-1">03</span><p>Tu as une assistante, des prestataires, mais les coordonner te prend presque autant de temps que de tout faire toi-même.</p></li>
       <li class="flex gap-5 py-6 border-t border-b border-line" data-aos="fade-up"><span class="font-mono text-sm text-accent shrink-0 pt-1">04</span><p>Et si tu coupes une semaine, tout ralentit. Parce qu'au fond, tout repose encore sur toi.</p></li>
     </ul>
     <p class="font-display italic text-xl sm:text-2xl text-ink mt-12 max-w-2xl leading-snug" data-aos="fade-up">
@@ -48,7 +48,7 @@ title: Pierre Assist · Fractional COO pour créateurs et formateurs en ligne
     <p class="font-mono text-xs uppercase tracking-[0.25em] text-accent mb-6" data-aos="fade-up">02 · Ce que je fais</p>
     <h2 class="font-display font-light text-3xl sm:text-4xl leading-snug mb-6 max-w-3xl" data-aos="fade-up">Ce que je fais, concrètement</h2>
     <p class="text-inksoft text-lg leading-relaxed max-w-2xl" data-aos="fade-up">
-      Ni un VA qui exécute des tâches, ni un consultant qui repart avec un rapport. Je m'intègre à ton organisation, je mets de l'ordre, puis je pilote le quotidien avec toi. Tu décides, je rends ça réel.
+      Ni un assistant qui exécute des tâches, ni un consultant qui repart avec un rapport. Je m'intègre à ton organisation, je mets de l'ordre, puis je pilote le quotidien avec toi. Tu décides, je rends ça réel.
     </p>
      <div class="grid sm:grid-cols-2 gap-px bg-line mt-14 border border-line" data-aos="fade-up">
       <div class="bg-surface p-8 sm:p-10">
@@ -69,7 +69,7 @@ title: Pierre Assist · Fractional COO pour créateurs et formateurs en ligne
       <div class="bg-surface p-8 sm:p-10">
         <i data-lucide="users" class="w-6 h-6 text-accent mb-5"></i>
         <h3 class="font-display text-xl mb-3">Ton équipe et tes prestataires</h3>
-        <p class="text-inksoft leading-relaxed">Je brief, je valide la qualité, je coordonne, à ta place. Tu récupères ta charge mentale.</p>
+        <p class="text-inksoft leading-relaxed">Je brief, je valide la qualité, je coordonne. La charge mentale, ce n'est plus la tienne.</p>
       </div>
     </div>
     <div class="mt-12 max-w-3xl border border-line rounded-lg p-8 sm:p-10" data-aos="fade-up">
@@ -97,11 +97,11 @@ La création de contenu, le copywriting, le design, la compta officielle, ce n'e
     <div class="max-w-3xl">
       <div class="grid sm:grid-cols-[150px_1fr] gap-1 sm:gap-8 py-6 border-t border-line" data-aos="fade-up">
         <div class="font-mono text-xs uppercase tracking-[0.2em] text-accent pt-1">Semaine 1</div>
-        <div><h4 class="font-display text-xl mb-2">J'observe.</h4><p class="text-inksoft leading-relaxed">J'obtiens un accès en lecture et je regarde comment ta boîte tourne vraiment. Je t'interroge, toi et ton équipe. Pas de chamboulement, juste comprendre.</p></div>
+        <div><h4 class="font-display text-xl mb-2">Je m'immerge</h4><p class="text-inksoft leading-relaxed">J'obtiens un accès en lecture et je regarde comment ta boîte tourne vraiment. Je t'interroge, toi et ton équipe. Pas de chamboulement, juste comprendre.</p></div>
       </div>
       <div class="grid sm:grid-cols-[150px_1fr] gap-1 sm:gap-8 py-6 border-t border-line" data-aos="fade-up">
         <div class="font-mono text-xs uppercase tracking-[0.2em] text-accent pt-1">Semaine 2</div>
-        <div><h4 class="font-display text-xl mb-2">Je creuse.</h4><p class="text-inksoft leading-relaxed">Je cartographie tes process, j'épluche tes chiffres (marge réelle, trésorerie, rentabilité par offre) et je suis un de tes clients de bout en bout pour repérer où ça fuit.</p></div>
+        <div><h4 class="font-display text-xl mb-2">Je décortique</h4><p class="text-inksoft leading-relaxed">Je cartographie tes process, j'épluche tes chiffres (marge réelle, trésorerie, rentabilité par offre) et je suis un de tes clients de bout en bout pour repérer où ça fuit.</p></div>
       </div>
       <div class="grid sm:grid-cols-[150px_1fr] gap-1 sm:gap-8 py-6 border-t border-line" data-aos="fade-up">
         <div class="font-mono text-xs uppercase tracking-[0.2em] text-accent pt-1">Semaine 3</div>
@@ -109,7 +109,7 @@ La création de contenu, le copywriting, le design, la compta officielle, ce n'e
       </div>
       <div class="grid sm:grid-cols-[150px_1fr] gap-1 sm:gap-8 py-6 border-t border-b border-line" data-aos="fade-up">
         <div class="font-mono text-xs uppercase tracking-[0.2em] text-accent pt-1">Semaine 4</div>
-        <div><h4 class="font-display text-xl mb-2">Je te livre les fondations.</h4><p class="text-inksoft leading-relaxed">Je te livre les fondations, tout est posé, cap clair pour 90 jours.</p></div>
+        <div><h4 class="font-display text-xl mb-2">Je te livre les fondations.</h4><p class="text-inksoft leading-relaxed">Tout est posé, et tu repars avec un cap clair pour les 90 jours.</p></div>
       </div>
     </div>
     
@@ -168,10 +168,10 @@ La création de contenu, le copywriting, le design, la compta officielle, ce n'e
     <div>
       <p class="font-mono text-xs uppercase tracking-[0.25em] text-accent mb-6">Qui je suis</p>
       <div class="space-y-4 text-lg leading-relaxed max-w-2xl">
-        <p>Je m'appelle <span class="font-display italic">Pierre Aussurin</span>. J'aide les experts qui ont fait de leur savoir un business à reprendre la main sur leur quotidien, en prenant l'opérationnel en charge à leur place.</p>
+        <p class="text-inksoft">Je m'appelle <span class="font-display italic">Pierre Aussurin</span>. J'aide les experts qui ont fait de leur savoir un business à reprendre la main sur leur quotidien, en prenant l'opérationnel en charge.</p>
         <p class="text-inksoft">Formé en gestion d'entreprise et en finance, je ne me contente pas de mettre de l'ordre : je sais aussi lire les chiffres d'un business et piloter avec. Marges, trésorerie, tableaux de bord, rétention, c'est mon terrain.</p>
         <p class="text-inksoft">Au quotidien, je structure ton organisation, tes process et tes outils, je pilote l'opérationnel, et je coordonne ton équipe et tes prestataires. Je ne prends pas les décisions à ta place : le cap reste le tien, mon travail est de le rendre réel.</p>
-        <p class="text-inksoft">Je travaille avec un nombre volontairement limité de clients. Pas par manque de demande, mais parce qu'être vraiment le bras droit de quelqu'un, ça ne se fait pas à la chaîne.</p>
+        <p class="text-inksoft">Je travaille avec un nombre volontairement limité de clients. Être vraiment le bras droit de quelqu'un, ça ne se fait pas à la chaîne.</p>
       </div>
     </div>
   </div>
