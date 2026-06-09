@@ -1,9 +1,14 @@
+---
+layout: default
+title: Pierre Assist · Fractional COO pour créateurs et formateurs en ligne
+---
+
 <!-- ===== HERO ===== -->
 <section id="intro" class="px-6 sm:px-10 lg:px-16 pt-40 pb-28 max-w-6xl mx-auto">
   <p class="rise font-mono text-xs uppercase tracking-[0.25em] text-accent mb-7" style="animation-delay:.05s">Le bras droit des créateurs débordés</p>
   <h1 class="rise font-display font-light text-5xl sm:text-6xl lg:text-7xl leading-[1.04] tracking-tight max-w-4xl" style="animation-delay:.15s">
-    Tu as bâti ton business.<br>
-    <span class="italic text-accent">Tu ne devrais pas</span> être coincé à le faire tourner.
+    Tu as bâti ton business.
+    <span class="block mt-2"><span class="italic text-terra">Tu ne devrais pas</span> être coincé à le faire tourner.</span>
   </h1>
   <p class="rise mt-8 text-lg sm:text-xl text-inksoft max-w-2xl leading-relaxed" style="animation-delay:.3s">
     Je suis le bras droit stratégique et opérationnel des experts qui ont fait de leur savoir un vrai business. Je reprends le quotidien, les process, les chiffres et la coordination de ton équipe, pour te rendre ta place de patron. Tu décides, je rends ça réel.
@@ -16,18 +21,19 @@
     <span class="text-sm text-inksoft">30 minutes, sans engagement</span>
   </div>
 </section>
+
 <!-- ===== 01 · LE PROBLÈME ===== -->
 <section id="probleme" class="border-t border-line">
   <div class="px-6 sm:px-10 lg:px-16 py-24 max-w-4xl mx-auto">
-    <p class="font-mono text-xs uppercase tracking-[0.25em] text-accent mb-6" data-aos="fade-up">01 — Le problème</p>
+    <p class="font-mono text-xs uppercase tracking-[0.25em] text-accent mb-6" data-aos="fade-up">01 · Le problème</p>
     <h2 class="font-display font-light text-3xl sm:text-4xl leading-snug mb-6 max-w-3xl" data-aos="fade-up">Ton business tourne. Le souci, c'est qu'il tourne sur toi.</h2>
     <p class="text-inksoft text-lg leading-relaxed max-w-2xl mb-12" data-aos="fade-up">
-      Tu as réussi le plus dur : une offre qui se vend, des clients, du chiffre. Mais plus ça grossit, moins tu passes de temps sur ce que tu sais faire de mieux, et plus tu passes tes journées à éteindre des feux.
+      Tu as réussi le plus dur : une offre qui se vend, des clients, du chiffre. Mais plus ça grossit, moins tu passes de temps sur ce que tu sais faire de mieux, et plus le reste prend toute la place.
     </p>
     <ul class="max-w-3xl">
-      <li class="flex gap-5 py-6 border-t border-line" data-aos="fade-up"><span class="font-mono text-sm text-accent shrink-0 pt-1">01</span><p>Tes journées partent dans l'opérationnel : répondre aux membres, relancer un prestataire, préparer le prochain lancement. Ta vraie zone de génie attend son tour.</p></li>
+      <li class="flex gap-5 py-6 border-t border-line" data-aos="fade-up"><span class="font-mono text-sm text-accent shrink-0 pt-1">01</span><p>Tes journées partent dans l'opérationnel : répondre aux membres, relancer un prestataire, préparer le prochain lancement. Ton vrai métier attend son tour.</p></li>
       <li class="flex gap-5 py-6 border-t border-line" data-aos="fade-up"><span class="font-mono text-sm text-accent shrink-0 pt-1">02</span><p>Tu pilotes tes chiffres au feeling. Ta marge réelle, la rentabilité de ton dernier lancement, ton taux de désabonnement, tu les sens plus que tu ne les sais.</p></li>
-      <li class="flex gap-5 py-6 border-t border-line" data-aos="fade-up"><span class="font-mono text-sm text-accent shrink-0 pt-1">03</span><p>Tu as une VA, des prestataires, mais les coordonner te prend presque autant de temps que de tout faire toi-même.</p></li>
+      <li class="flex gap-5 py-6 border-t border-line" data-aos="fade-up"><span class="font-mono text-sm text-accent shrink-0 pt-1">03</span><p>Tu as une assistante, des prestataires, mais les coordonner te prend presque autant de temps que de tout faire toi-même.</p></li>
       <li class="flex gap-5 py-6 border-t border-b border-line" data-aos="fade-up"><span class="font-mono text-sm text-accent shrink-0 pt-1">04</span><p>Et si tu coupes une semaine, tout ralentit. Parce qu'au fond, tout repose encore sur toi.</p></li>
     </ul>
     <p class="font-display italic text-xl sm:text-2xl text-ink mt-12 max-w-2xl leading-snug" data-aos="fade-up">
@@ -35,15 +41,16 @@
     </p>
   </div>
 </section>
+
 <!-- ===== 02 · CE QUE JE FAIS ===== -->
 <section id="services" class="border-t border-line bg-surface">
-  <div class="px-6 sm:px-10 lg:px-16 py-24 max-w-6xl mx-auto">
-    <p class="font-mono text-xs uppercase tracking-[0.25em] text-accent mb-6" data-aos="fade-up">02 — Ce que je fais</p>
+  <div class="px-6 sm:px-10 lg:px-16 py-24 max-w-4xl mx-auto">
+    <p class="font-mono text-xs uppercase tracking-[0.25em] text-accent mb-6" data-aos="fade-up">02 · Ce que je fais</p>
     <h2 class="font-display font-light text-3xl sm:text-4xl leading-snug mb-6 max-w-3xl" data-aos="fade-up">Ce que je fais, concrètement</h2>
     <p class="text-inksoft text-lg leading-relaxed max-w-2xl" data-aos="fade-up">
-      Je ne suis pas un consultant qui te laisse un beau rapport et s'en va. J'entre dans ton business, je mets de l'ordre, puis je pilote le quotidien avec toi. Tu décides, je rends ça réel.
+      Ni un assistant qui exécute des tâches, ni un consultant qui repart avec un rapport. Je m'intègre à ton organisation, je mets de l'ordre, puis je pilote le quotidien avec toi. Tu décides, je rends ça réel.
     </p>
-    <div class="grid sm:grid-cols-2 gap-px bg-line mt-14 border border-line" data-aos="fade-up">
+     <div class="grid sm:grid-cols-2 gap-px bg-line mt-14 border border-line" data-aos="fade-up">
       <div class="bg-surface p-8 sm:p-10">
         <i data-lucide="workflow" class="w-6 h-6 text-accent mb-5"></i>
         <h3 class="font-display text-xl mb-3">Tes process et ton organisation</h3>
@@ -62,43 +69,69 @@
       <div class="bg-surface p-8 sm:p-10">
         <i data-lucide="users" class="w-6 h-6 text-accent mb-5"></i>
         <h3 class="font-display text-xl mb-3">Ton équipe et tes prestataires</h3>
-        <p class="text-inksoft leading-relaxed">Je brief, je valide la qualité, je coordonne, à ta place. Tu récupères ta charge mentale.</p>
+        <p class="text-inksoft leading-relaxed">Je brief, je valide la qualité, je coordonne. La charge mentale, ce n'est plus la tienne.</p>
       </div>
     </div>
-    <p class="text-sm text-inksoft leading-relaxed max-w-2xl mt-10" data-aos="fade-up">
-      Et ce que je ne fais pas : je ne crée pas ton contenu, je ne fais pas ton copywriting, ton design ou ta compta officielle. Pour ça, je trouve les bonnes personnes et je pilote leur travail. Je préfère être excellent sur mon terrain plutôt que moyen partout.
+    <div class="mt-12 max-w-3xl border border-line rounded-lg p-8 sm:p-10" data-aos="fade-up">
+  <h3 class="font-display text-2xl mb-3">Je ne fais pas tout, et c'est voulu.</h3>
+  <p class="text-inksoft leading-relaxed">
+La création de contenu, le copywriting, le design, la compta officielle, ce n'est pas mon métier. Quand ton business en a besoin, je te trouve les bonnes personnes et je pilote leur travail, pour que tu n'aies ni à les chercher ni à les gérer. Je préfère être excellent sur mon terrain plutôt que moyen partout.
+  </p>
+</div>
+  </div>
+</section>
+
+<!-- ===== 03 · COMMENT ON TRAVAILLE ENSEMBLE ===== -->
+<section id="methode" class="border-t border-line">
+  <div class="px-6 sm:px-10 lg:px-16 py-24 max-w-4xl mx-auto">
+    <p class="font-mono text-xs uppercase tracking-[0.25em] text-accent mb-6" data-aos="fade-up">03 · Comment on travaille ensemble</p>
+    <h2 class="font-display font-light text-3xl sm:text-4xl leading-snug mb-6 max-w-3xl" data-aos="fade-up">Concrètement, voilà ce qui se passe</h2>
+    <p class="text-inksoft text-lg leading-relaxed max-w-2xl" data-aos="fade-up">
+      Mon accompagnement se passe en deux temps : un premier mois pour poser les fondations, puis un pilotage récurrent, mois après mois. On s'engage dans la durée, parce que structurer un business et le faire tourner, ça ne se règle pas en deux semaines. C'est fait pour des business qui tournent déjà et qui ont du chiffre à piloter.
+    </p>
+
+   <h3 class="font-display text-2xl mt-16 mb-4" data-aos="fade-up">Le premier mois, on pose les fondations</h3>
+<p class="text-inksoft text-lg leading-relaxed max-w-2xl mb-2" data-aos="fade-up">
+  Je fais le tour complet de ton business : ton organisation, tes process, tes outils, tes chiffres. Je repère tout ce qui te coûte du temps, de l'argent et de l'énergie, et je remets de l'ordre là où il en faut. C'est un mois dense. Voilà comment il se déroule, semaine après semaine.
+</p>
+    <div class="max-w-3xl">
+      <div class="grid sm:grid-cols-[150px_1fr] gap-1 sm:gap-8 py-6 border-t border-line" data-aos="fade-up">
+        <div class="font-mono text-xs uppercase tracking-[0.2em] text-accent pt-1">Semaine 1</div>
+        <div><h4 class="font-display text-xl mb-2">Je m'immerge</h4><p class="text-inksoft leading-relaxed">J'obtiens un accès en lecture et je regarde comment ta boîte tourne vraiment. Je t'interroge, toi et ton équipe. Pas de chamboulement, juste comprendre.</p></div>
+      </div>
+      <div class="grid sm:grid-cols-[150px_1fr] gap-1 sm:gap-8 py-6 border-t border-line" data-aos="fade-up">
+        <div class="font-mono text-xs uppercase tracking-[0.2em] text-accent pt-1">Semaine 2</div>
+        <div><h4 class="font-display text-xl mb-2">Je décortique</h4><p class="text-inksoft leading-relaxed">Je cartographie tes process, j'épluche tes chiffres (marge réelle, trésorerie, rentabilité par offre) et je suis un de tes clients de bout en bout pour repérer où ça fuit.</p></div>
+      </div>
+      <div class="grid sm:grid-cols-[150px_1fr] gap-1 sm:gap-8 py-6 border-t border-line" data-aos="fade-up">
+        <div class="font-mono text-xs uppercase tracking-[0.2em] text-accent pt-1">Semaine 3</div>
+        <div><h4 class="font-display text-xl mb-2">J'agis sur l'urgent.</h4><p class="text-inksoft leading-relaxed">J'isole les cinq problèmes qui te coûtent le plus, et je lance les premiers quick wins, ceux qui se voient tout de suite.</p></div>
+      </div>
+      <div class="grid sm:grid-cols-[150px_1fr] gap-1 sm:gap-8 py-6 border-t border-b border-line" data-aos="fade-up">
+        <div class="font-mono text-xs uppercase tracking-[0.2em] text-accent pt-1">Semaine 4</div>
+        <div><h4 class="font-display text-xl mb-2">Je te livre les fondations.</h4><p class="text-inksoft leading-relaxed">Tout est posé, et tu repars avec un cap clair pour les 90 jours.</p></div>
+      </div>
+    </div>
+    
+<h3 class="font-display text-2xl mt-16 mb-6" data-aos="fade-up">Ce que tu repars avec, dès le premier mois</h3>
+    <ul class="space-y-4 max-w-2xl" data-aos="fade-up">
+      <li class="flex gap-3"><i data-lucide="check" class="w-5 h-5 text-terra shrink-0 mt-0.5"></i><span>Un rapport d'audit qui pose noir sur blanc où tu en es et où ça coince.</span></li>
+      <li class="flex gap-3"><i data-lucide="check" class="w-5 h-5 text-terra shrink-0 mt-0.5"></i><span>Ton QG dans Notion : process, tâches, prestataires, procédures, au même endroit.</span></li>
+      <li class="flex gap-3"><i data-lucide="check" class="w-5 h-5 text-terra shrink-0 mt-0.5"></i><span>Un tableau de bord chiffré : marge, trésorerie, rétention, en un coup d'œil.</span></li>
+      <li class="flex gap-3"><i data-lucide="check" class="w-5 h-5 text-terra shrink-0 mt-0.5"></i><span>Tes tâches clés documentées, exécutables sans toi.</span></li>
+      <li class="flex gap-3"><i data-lucide="check" class="w-5 h-5 text-terra shrink-0 mt-0.5"></i><span>Un plan d'action priorisé pour les 90 jours suivants.</span></li>
+</ul>
+<h3 class="font-display text-2xl mt-16 mb-4" data-aos="fade-up">Les mois d'après, ton nouveau rythme</h3>
+    <p class="text-inksoft text-lg leading-relaxed max-w-2xl" data-aos="fade-up">
+      Là, je deviens vraiment ton bras droit. Un point chaque semaine, un rapport d'une page chaque mois, une revue stratégique chaque trimestre. Entre les deux, je tiens le quotidien, tu n'es jamais dans le flou, et tu n'as plus à tout porter.
     </p>
   </div>
 </section>
-<!-- ===== 03 · L'OFFRE ===== -->
-<section id="offre" class="border-t border-line">
-  <div class="px-6 sm:px-10 lg:px-16 py-24 max-w-5xl mx-auto">
-    <p class="font-mono text-xs uppercase tracking-[0.25em] text-accent mb-6" data-aos="fade-up">03 — L'offre</p>
-    <h2 class="font-display font-light text-3xl sm:text-4xl leading-snug mb-14 max-w-3xl" data-aos="fade-up">Comment on travaille ensemble</h2>
-    <div class="grid md:grid-cols-2 gap-px bg-line border border-line" data-aos="fade-up">
-      <div class="bg-paper p-8 sm:p-10">
-        <span class="font-mono text-xs uppercase tracking-[0.2em] text-accent">Le premier mois</span>
-        <h3 class="font-display text-2xl mt-3 mb-4">On pose les fondations</h3>
-        <p class="text-inksoft leading-relaxed">J'entre dans ton business et je fais le tour complet : ton organisation, tes process, tes outils, tes chiffres. Je repère ce qui te coûte du temps, de l'argent et de l'énergie, et je remets de l'ordre là où il en faut. Tu repars avec des bases saines et un plan d'action clair pour les 90 jours suivants.</p>
-      </div>
-      <div class="bg-paper p-8 sm:p-10">
-        <span class="font-mono text-xs uppercase tracking-[0.2em] text-accent">Les mois d'après</span>
-        <h3 class="font-display text-2xl mt-3 mb-4">Je pilote avec toi</h3>
-        <p class="text-inksoft leading-relaxed">C'est là que je deviens vraiment ton bras droit. Je fais tourner les process, je suis tes chiffres, je coordonne ton équipe et tes prestataires, je gère l'opérationnel de tes lancements. Toi, tu récupères ton temps et ta tête pour ce que toi seul peux faire.</p>
-      </div>
-    </div>
-    <p class="text-inksoft leading-relaxed mt-8 max-w-2xl" data-aos="fade-up">
-      On s'engage sur la durée, parce que structurer un business et le faire tourner, ça ne se règle pas en deux semaines.
-    </p>
-    <p class="font-display italic text-xl text-ink mt-5 max-w-2xl leading-snug" data-aos="fade-up">
-      Cet accompagnement est fait pour des business qui tournent déjà et qui ont du chiffre à piloter. Si c'est ton cas et que tu t'es reconnu plus haut, on devrait se parler.
-    </p>
-  </div>
-</section>
+
 <!-- ===== 04 · COMMENT ÇA COMMENCE ===== -->
 <section id="process" class="border-t border-line bg-surface">
   <div class="px-6 sm:px-10 lg:px-16 py-24 max-w-4xl mx-auto">
-    <p class="font-mono text-xs uppercase tracking-[0.25em] text-accent mb-6" data-aos="fade-up">04 — Comment ça commence</p>
+    <p class="font-mono text-xs uppercase tracking-[0.25em] text-accent mb-6" data-aos="fade-up">04 · Comment ça commence</p>
     <h2 class="font-display font-light text-3xl sm:text-4xl leading-snug mb-14 max-w-3xl" data-aos="fade-up">Et concrètement, on commence comment ?</h2>
     <ol class="space-y-10">
       <li class="flex gap-6 items-start" data-aos="fade-up">
@@ -112,7 +145,7 @@
         <span class="font-display text-4xl text-accent/40 leading-none shrink-0 w-12">2</span>
         <div>
           <h3 class="font-display text-xl mb-2">On démarre par le mois de fondations</h3>
-          <p class="text-inksoft leading-relaxed max-w-2xl">Si c'est un oui des deux côtés, j'entre dans ton business et je pose les bases.</p>
+          <p class="text-inksoft leading-relaxed max-w-2xl">Si c'est un oui des deux côtés, je m'intègre à ton organisation et je pose les bases.</p>
         </div>
       </li>
       <li class="flex gap-6 items-start" data-aos="fade-up">
@@ -125,29 +158,31 @@
     </ol>
   </div>
 </section>
+
 <!-- ===== À PROPOS ===== -->
 <section id="about" class="border-t border-line">
-  <div class="px-6 sm:px-10 lg:px-16 py-24 max-w-5xl mx-auto grid md:grid-cols-[auto,1fr] gap-12 md:gap-16 items-start" data-aos="fade-up">
+  <div class="px-6 sm:px-10 lg:px-16 py-24 max-w-5xl mx-auto grid md:grid-cols-[auto_1fr] gap-12 md:gap-16 items-start" data-aos="fade-up">
     <div class="shrink-0">
       <img src="/assets/portrait.png" alt="Pierre Aussurin" class="w-40 h-40 rounded-full object-cover ring-1 ring-line">
     </div>
     <div>
       <p class="font-mono text-xs uppercase tracking-[0.25em] text-accent mb-6">Qui je suis</p>
       <div class="space-y-4 text-lg leading-relaxed max-w-2xl">
-        <p>Je m'appelle Pierre Aussurin. J'aide les experts qui ont fait de leur savoir un business à reprendre la main sur leur quotidien, en prenant l'opérationnel en charge à leur place.</p>
-        <p class="text-inksoft">J'ai une formation en gestion et en finance, ce qui change ma façon de travailler : je ne me contente pas de mettre de l'ordre, je sais lire les chiffres d'un business et piloter avec. Marges, trésorerie, tableaux de bord, rétention, c'est mon terrain.</p>
+        <p class="text-inksoft">Je m'appelle <span class="font-display italic">Pierre Aussurin</span>. J'aide les experts qui ont fait de leur savoir un business à reprendre la main sur leur quotidien, en prenant l'opérationnel en charge.</p>
+        <p class="text-inksoft">Formé en gestion d'entreprise et en finance, je ne me contente pas de mettre de l'ordre : je sais aussi lire les chiffres d'un business et piloter avec. Marges, trésorerie, tableaux de bord, rétention, c'est mon terrain.</p>
         <p class="text-inksoft">Au quotidien, je structure ton organisation, tes process et tes outils, je pilote l'opérationnel, et je coordonne ton équipe et tes prestataires. Je ne prends pas les décisions à ta place : le cap reste le tien, mon travail est de le rendre réel.</p>
-        <p class="text-inksoft">Je travaille à distance, partout en France, avec un nombre volontairement limité de clients pour m'investir pleinement dans chaque business.</p>
+        <p class="text-inksoft">Je travaille avec un nombre volontairement limité de clients. Être vraiment le bras droit de quelqu'un, ça ne se fait pas à la chaîne.</p>
       </div>
     </div>
   </div>
 </section>
+
 <!-- ===== CTA (bandeau accent) ===== -->
 <section id="cta" class="bg-accent text-paper">
   <div class="px-6 sm:px-10 lg:px-16 py-28 max-w-3xl mx-auto text-center" data-aos="fade-up">
     <h2 class="font-display font-light text-4xl sm:text-5xl leading-tight mb-6">On en parle ?</h2>
     <p class="text-paper/80 text-lg leading-relaxed mb-10 max-w-xl mx-auto">
-      Si tu t'es reconnu dans ce que tu as lu, le plus simple est qu'on échange 30 minutes. On fait le point sur où tu en es, et on voit ensemble si je peux t'aider. Sans engagement.
+      Le premier pas, c'est un appel de 30 minutes, sans engagement. On fait le point sur où tu en es, et si je ne suis pas la bonne personne pour t'aider, je te le dirai franchement.
     </p>
     <div class="flex flex-col sm:flex-row justify-center items-center gap-4">
       <a href="https://calendly.com/contact-pierreassist/30min" class="inline-flex items-center gap-2 px-7 py-3.5 bg-paper text-accent rounded-full font-semibold hover:bg-white transition">
@@ -158,9 +193,11 @@
         <i data-lucide="mail" class="w-5 h-5"></i>
         contact@pierreassist.fr
       </a>
-      <a href="https://www.linkedin.com/in/pierre-aussurin-teytaux-75b09711a/" class="inline-flex items-center justify-center w-12 h-12 border border-paper/40 text-paper rounded-full hover:bg-paper/10 transition" aria-label="LinkedIn">
-        <i data-lucide="linkedin" class="w-5 h-5"></i>
-      </a>
+      <a href="https://www.linkedin.com/in/pierre-aussurin-75b09711a/" class="inline-flex items-center justify-center w-12 h-12 border border-paper/40 text-paper rounded-full hover:bg-paper/10 transition" aria-label="LinkedIn">
+  <svg viewBox="0 0 24 24" fill="currentColor" class="w-5 h-5" aria-hidden="true">
+    <path d="M20.45 20.45h-3.56v-5.57c0-1.33-.02-3.04-1.85-3.04-1.85 0-2.14 1.45-2.14 2.94v5.67H9.34V9h3.42v1.56h.05c.48-.9 1.64-1.85 3.37-1.85 3.6 0 4.27 2.37 4.27 5.46v6.28zM5.34 7.43a2.06 2.06 0 1 1 0-4.13 2.06 2.06 0 0 1 0 4.13zM7.12 20.45H3.55V9h3.57v11.45zM22.22 0H1.77C.79 0 0 .77 0 1.73v20.54C0 23.23.79 24 1.77 24h20.45c.98 0 1.78-.77 1.78-1.73V1.73C24 .77 23.2 0 22.22 0z"/>
+  </svg>
+</a>
     </div>
   </div>
 </section>
